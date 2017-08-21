@@ -3,7 +3,7 @@
     <tr>
       <td align="center" width="200px">项目名称</td>   
       <td align="center" width="200px"><a href="https://github.com/NMSLanX/Mellivora" >Mellivora</a></td>   
-      <td rowspan="7"><img src="https://github.com/NMSLanX/ImageCache/blob/master/Natasha/bgImage.jpg" /></td>
+      <td rowspan="7"><img src="../images/bgImage.jpg" /></td>
     </tr>
     <tr>
         <td align="center">项目类别</td>
