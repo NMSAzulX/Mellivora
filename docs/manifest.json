@@ -771,7 +771,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "P2JoQfn8on9SSUyfYD8Brw=="
+          "hash": "l9Zv8R+0Gn28OKZjNuZkcQ=="
         }
       },
       "is_incremental": false,
@@ -800,11 +800,11 @@
           "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
-        "ManagedReferenceDocumentProcessor": {
+        "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build"
         },
-        "ConceptualDocumentProcessor": {
+        "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build"
         }
