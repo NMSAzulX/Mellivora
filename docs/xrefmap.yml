@@ -1,0 +1,2675 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Mellivora
+  name: Mellivora
+  href: api/Mellivora.html
+  commentId: N:Mellivora
+  fullName: Mellivora
+  nameWithType: Mellivora
+- uid: Mellivora.DbConnectionALExtension
+  name: DbConnectionALExtension
+  href: api/Mellivora.DbConnectionALExtension.html
+  commentId: T:Mellivora.DbConnectionALExtension
+  fullName: Mellivora.DbConnectionALExtension
+  nameWithType: DbConnectionALExtension
+- uid: Mellivora.DbConnectionALExtension.ExecuteIAL*
+  name: ExecuteIAL
+  href: api/Mellivora.DbConnectionALExtension.html#Mellivora_DbConnectionALExtension_ExecuteIAL_
+  commentId: Overload:Mellivora.DbConnectionALExtension.ExecuteIAL
+  fullName: Mellivora.DbConnectionALExtension.ExecuteIAL
+  nameWithType: DbConnectionALExtension.ExecuteIAL
+- uid: Mellivora.DbConnectionALExtension.ExecuteIAL``1(IDbConnection,System.String,``0)
+  name: ExecuteIAL<T>(IDbConnection, String, T)
+  href: api/Mellivora.DbConnectionALExtension.html#Mellivora_DbConnectionALExtension_ExecuteIAL__1_IDbConnection_System_String___0_
+  commentId: M:Mellivora.DbConnectionALExtension.ExecuteIAL``1(IDbConnection,System.String,``0)
+  name.vb: ExecuteIAL(Of T)(IDbConnection, String, T)
+  fullName: Mellivora.DbConnectionALExtension.ExecuteIAL<T>(IDbConnection, System.String, T)
+  fullName.vb: Mellivora.DbConnectionALExtension.ExecuteIAL(Of T)(IDbConnection, System.String, T)
+  nameWithType: DbConnectionALExtension.ExecuteIAL<T>(IDbConnection, String, T)
+  nameWithType.vb: DbConnectionALExtension.ExecuteIAL(Of T)(IDbConnection, String, T)
+- uid: Mellivora.DbConnectionALExtension.ExecuteOAL*
+  name: ExecuteOAL
+  href: api/Mellivora.DbConnectionALExtension.html#Mellivora_DbConnectionALExtension_ExecuteOAL_
+  commentId: Overload:Mellivora.DbConnectionALExtension.ExecuteOAL
+  fullName: Mellivora.DbConnectionALExtension.ExecuteOAL
+  nameWithType: DbConnectionALExtension.ExecuteOAL
+- uid: Mellivora.DbConnectionALExtension.ExecuteOAL``1(IDbConnection,System.String,System.Object[])
+  name: ExecuteOAL<T>(IDbConnection, String, Object[])
+  href: api/Mellivora.DbConnectionALExtension.html#Mellivora_DbConnectionALExtension_ExecuteOAL__1_IDbConnection_System_String_System_Object___
+  commentId: M:Mellivora.DbConnectionALExtension.ExecuteOAL``1(IDbConnection,System.String,System.Object[])
+  name.vb: ExecuteOAL(Of T)(IDbConnection, String, Object())
+  fullName: Mellivora.DbConnectionALExtension.ExecuteOAL<T>(IDbConnection, System.String, System.Object[])
+  fullName.vb: Mellivora.DbConnectionALExtension.ExecuteOAL(Of T)(IDbConnection, System.String, System.Object())
+  nameWithType: DbConnectionALExtension.ExecuteOAL<T>(IDbConnection, String, Object[])
+  nameWithType.vb: DbConnectionALExtension.ExecuteOAL(Of T)(IDbConnection, String, Object())
+- uid: Mellivora.DbConnectionALExtension.GetIAL*
+  name: GetIAL
+  href: api/Mellivora.DbConnectionALExtension.html#Mellivora_DbConnectionALExtension_GetIAL_
+  commentId: Overload:Mellivora.DbConnectionALExtension.GetIAL
+  fullName: Mellivora.DbConnectionALExtension.GetIAL
+  nameWithType: DbConnectionALExtension.GetIAL
+- uid: Mellivora.DbConnectionALExtension.GetIAL``2(IDbConnection,System.String,System.Object)
+  name: GetIAL<T, S>(IDbConnection, String, Object)
+  href: api/Mellivora.DbConnectionALExtension.html#Mellivora_DbConnectionALExtension_GetIAL__2_IDbConnection_System_String_System_Object_
+  commentId: M:Mellivora.DbConnectionALExtension.GetIAL``2(IDbConnection,System.String,System.Object)
+  name.vb: GetIAL(Of T, S)(IDbConnection, String, Object)
+  fullName: Mellivora.DbConnectionALExtension.GetIAL<T, S>(IDbConnection, System.String, System.Object)
+  fullName.vb: Mellivora.DbConnectionALExtension.GetIAL(Of T, S)(IDbConnection, System.String, System.Object)
+  nameWithType: DbConnectionALExtension.GetIAL<T, S>(IDbConnection, String, Object)
+  nameWithType.vb: DbConnectionALExtension.GetIAL(Of T, S)(IDbConnection, String, Object)
+- uid: Mellivora.DbConnectionALExtension.GetOAL*
+  name: GetOAL
+  href: api/Mellivora.DbConnectionALExtension.html#Mellivora_DbConnectionALExtension_GetOAL_
+  commentId: Overload:Mellivora.DbConnectionALExtension.GetOAL
+  fullName: Mellivora.DbConnectionALExtension.GetOAL
+  nameWithType: DbConnectionALExtension.GetOAL
+- uid: Mellivora.DbConnectionALExtension.GetOAL``2(IDbConnection,System.String,System.Object[])
+  name: GetOAL<T, S>(IDbConnection, String, Object[])
+  href: api/Mellivora.DbConnectionALExtension.html#Mellivora_DbConnectionALExtension_GetOAL__2_IDbConnection_System_String_System_Object___
+  commentId: M:Mellivora.DbConnectionALExtension.GetOAL``2(IDbConnection,System.String,System.Object[])
+  name.vb: GetOAL(Of T, S)(IDbConnection, String, Object())
+  fullName: Mellivora.DbConnectionALExtension.GetOAL<T, S>(IDbConnection, System.String, System.Object[])
+  fullName.vb: Mellivora.DbConnectionALExtension.GetOAL(Of T, S)(IDbConnection, System.String, System.Object())
+  nameWithType: DbConnectionALExtension.GetOAL<T, S>(IDbConnection, String, Object[])
+  nameWithType.vb: DbConnectionALExtension.GetOAL(Of T, S)(IDbConnection, String, Object())
+- uid: Mellivora.DbConnectionByInstanceExtension
+  name: DbConnectionByInstanceExtension
+  href: api/Mellivora.DbConnectionByInstanceExtension.html
+  commentId: T:Mellivora.DbConnectionByInstanceExtension
+  fullName: Mellivora.DbConnectionByInstanceExtension
+  nameWithType: DbConnectionByInstanceExtension
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstance*
+  name: ExecuteNonQueryByInstance
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteNonQueryByInstance_
+  commentId: Overload:Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstance
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstance
+  nameWithType: DbConnectionByInstanceExtension.ExecuteNonQueryByInstance
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstance``1(IDbConnection,System.String,``0)
+  name: ExecuteNonQueryByInstance<T>(IDbConnection, String, T)
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteNonQueryByInstance__1_IDbConnection_System_String___0_
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstance``1(IDbConnection,System.String,``0)
+  name.vb: ExecuteNonQueryByInstance(Of T)(IDbConnection, String, T)
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstance<T>(IDbConnection, System.String, T)
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstance(Of T)(IDbConnection, System.String, T)
+  nameWithType: DbConnectionByInstanceExtension.ExecuteNonQueryByInstance<T>(IDbConnection, String, T)
+  nameWithType.vb: DbConnectionByInstanceExtension.ExecuteNonQueryByInstance(Of T)(IDbConnection, String, T)
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstances*
+  name: ExecuteNonQueryByInstances
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteNonQueryByInstances_
+  commentId: Overload:Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstances
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstances
+  nameWithType: DbConnectionByInstanceExtension.ExecuteNonQueryByInstances
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstances``1(IDbConnection,System.String,``0[])
+  name: ExecuteNonQueryByInstances<T>(IDbConnection, String, T[])
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteNonQueryByInstances__1_IDbConnection_System_String___0___
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstances``1(IDbConnection,System.String,``0[])
+  name.vb: ExecuteNonQueryByInstances(Of T)(IDbConnection, String, T())
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstances<T>(IDbConnection, System.String, T[])
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.ExecuteNonQueryByInstances(Of T)(IDbConnection, System.String, T())
+  nameWithType: DbConnectionByInstanceExtension.ExecuteNonQueryByInstances<T>(IDbConnection, String, T[])
+  nameWithType.vb: DbConnectionByInstanceExtension.ExecuteNonQueryByInstances(Of T)(IDbConnection, String, T())
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance*
+  name: ExecuteScalarByInstance
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteScalarByInstance_
+  commentId: Overload:Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance
+  nameWithType: DbConnectionByInstanceExtension.ExecuteScalarByInstance
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance``1(IDbConnection,System.String,``0)
+  name: ExecuteScalarByInstance<T>(IDbConnection, String, T)
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteScalarByInstance__1_IDbConnection_System_String___0_
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance``1(IDbConnection,System.String,``0)
+  name.vb: ExecuteScalarByInstance(Of T)(IDbConnection, String, T)
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance<T>(IDbConnection, System.String, T)
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance(Of T)(IDbConnection, System.String, T)
+  nameWithType: DbConnectionByInstanceExtension.ExecuteScalarByInstance<T>(IDbConnection, String, T)
+  nameWithType.vb: DbConnectionByInstanceExtension.ExecuteScalarByInstance(Of T)(IDbConnection, String, T)
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance``2(IDbConnection,System.String,``1)
+  name: ExecuteScalarByInstance<R, T>(IDbConnection, String, T)
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteScalarByInstance__2_IDbConnection_System_String___1_
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance``2(IDbConnection,System.String,``1)
+  name.vb: ExecuteScalarByInstance(Of R, T)(IDbConnection, String, T)
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance<R, T>(IDbConnection, System.String, T)
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstance(Of R, T)(IDbConnection, System.String, T)
+  nameWithType: DbConnectionByInstanceExtension.ExecuteScalarByInstance<R, T>(IDbConnection, String, T)
+  nameWithType.vb: DbConnectionByInstanceExtension.ExecuteScalarByInstance(Of R, T)(IDbConnection, String, T)
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances*
+  name: ExecuteScalarByInstances
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteScalarByInstances_
+  commentId: Overload:Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances
+  nameWithType: DbConnectionByInstanceExtension.ExecuteScalarByInstances
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances``1(IDbConnection,System.String,``0[])
+  name: ExecuteScalarByInstances<T>(IDbConnection, String, T[])
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteScalarByInstances__1_IDbConnection_System_String___0___
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances``1(IDbConnection,System.String,``0[])
+  name.vb: ExecuteScalarByInstances(Of T)(IDbConnection, String, T())
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances<T>(IDbConnection, System.String, T[])
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances(Of T)(IDbConnection, System.String, T())
+  nameWithType: DbConnectionByInstanceExtension.ExecuteScalarByInstances<T>(IDbConnection, String, T[])
+  nameWithType.vb: DbConnectionByInstanceExtension.ExecuteScalarByInstances(Of T)(IDbConnection, String, T())
+- uid: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances``2(IDbConnection,System.String,``1[])
+  name: ExecuteScalarByInstances<R, T>(IDbConnection, String, T[])
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_ExecuteScalarByInstances__2_IDbConnection_System_String___1___
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances``2(IDbConnection,System.String,``1[])
+  name.vb: ExecuteScalarByInstances(Of R, T)(IDbConnection, String, T())
+  fullName: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances<R, T>(IDbConnection, System.String, T[])
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.ExecuteScalarByInstances(Of R, T)(IDbConnection, System.String, T())
+  nameWithType: DbConnectionByInstanceExtension.ExecuteScalarByInstances<R, T>(IDbConnection, String, T[])
+  nameWithType.vb: DbConnectionByInstanceExtension.ExecuteScalarByInstances(Of R, T)(IDbConnection, String, T())
+- uid: Mellivora.DbConnectionByInstanceExtension.QueryByInstance*
+  name: QueryByInstance
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_QueryByInstance_
+  commentId: Overload:Mellivora.DbConnectionByInstanceExtension.QueryByInstance
+  fullName: Mellivora.DbConnectionByInstanceExtension.QueryByInstance
+  nameWithType: DbConnectionByInstanceExtension.QueryByInstance
+- uid: Mellivora.DbConnectionByInstanceExtension.QueryByInstance``1(IDbConnection,System.String,System.Object)
+  name: QueryByInstance<T>(IDbConnection, String, Object)
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_QueryByInstance__1_IDbConnection_System_String_System_Object_
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.QueryByInstance``1(IDbConnection,System.String,System.Object)
+  name.vb: QueryByInstance(Of T)(IDbConnection, String, Object)
+  fullName: Mellivora.DbConnectionByInstanceExtension.QueryByInstance<T>(IDbConnection, System.String, System.Object)
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.QueryByInstance(Of T)(IDbConnection, System.String, System.Object)
+  nameWithType: DbConnectionByInstanceExtension.QueryByInstance<T>(IDbConnection, String, Object)
+  nameWithType.vb: DbConnectionByInstanceExtension.QueryByInstance(Of T)(IDbConnection, String, Object)
+- uid: Mellivora.DbConnectionByInstanceExtension.QueryByInstance``1(IDbConnection,System.String,System.Object,System.Int32,System.Int32)
+  name: QueryByInstance<T>(IDbConnection, String, Object, Int32, Int32)
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_QueryByInstance__1_IDbConnection_System_String_System_Object_System_Int32_System_Int32_
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.QueryByInstance``1(IDbConnection,System.String,System.Object,System.Int32,System.Int32)
+  name.vb: QueryByInstance(Of T)(IDbConnection, String, Object, Int32, Int32)
+  fullName: Mellivora.DbConnectionByInstanceExtension.QueryByInstance<T>(IDbConnection, System.String, System.Object, System.Int32, System.Int32)
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.QueryByInstance(Of T)(IDbConnection, System.String, System.Object, System.Int32, System.Int32)
+  nameWithType: DbConnectionByInstanceExtension.QueryByInstance<T>(IDbConnection, String, Object, Int32, Int32)
+  nameWithType.vb: DbConnectionByInstanceExtension.QueryByInstance(Of T)(IDbConnection, String, Object, Int32, Int32)
+- uid: Mellivora.DbConnectionByInstanceExtension.QueryByInstances*
+  name: QueryByInstances
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_QueryByInstances_
+  commentId: Overload:Mellivora.DbConnectionByInstanceExtension.QueryByInstances
+  fullName: Mellivora.DbConnectionByInstanceExtension.QueryByInstances
+  nameWithType: DbConnectionByInstanceExtension.QueryByInstances
+- uid: Mellivora.DbConnectionByInstanceExtension.QueryByInstances``1(IDbConnection,System.String,System.Object[])
+  name: QueryByInstances<T>(IDbConnection, String, Object[])
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_QueryByInstances__1_IDbConnection_System_String_System_Object___
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.QueryByInstances``1(IDbConnection,System.String,System.Object[])
+  name.vb: QueryByInstances(Of T)(IDbConnection, String, Object())
+  fullName: Mellivora.DbConnectionByInstanceExtension.QueryByInstances<T>(IDbConnection, System.String, System.Object[])
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.QueryByInstances(Of T)(IDbConnection, System.String, System.Object())
+  nameWithType: DbConnectionByInstanceExtension.QueryByInstances<T>(IDbConnection, String, Object[])
+  nameWithType.vb: DbConnectionByInstanceExtension.QueryByInstances(Of T)(IDbConnection, String, Object())
+- uid: Mellivora.DbConnectionByInstanceExtension.QueryByInstances``1(IDbConnection,System.String,System.Object[],System.Int32,System.Int32)
+  name: QueryByInstances<T>(IDbConnection, String, Object[], Int32, Int32)
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_QueryByInstances__1_IDbConnection_System_String_System_Object___System_Int32_System_Int32_
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.QueryByInstances``1(IDbConnection,System.String,System.Object[],System.Int32,System.Int32)
+  name.vb: QueryByInstances(Of T)(IDbConnection, String, Object(), Int32, Int32)
+  fullName: Mellivora.DbConnectionByInstanceExtension.QueryByInstances<T>(IDbConnection, System.String, System.Object[], System.Int32, System.Int32)
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.QueryByInstances(Of T)(IDbConnection, System.String, System.Object(), System.Int32, System.Int32)
+  nameWithType: DbConnectionByInstanceExtension.QueryByInstances<T>(IDbConnection, String, Object[], Int32, Int32)
+  nameWithType.vb: DbConnectionByInstanceExtension.QueryByInstances(Of T)(IDbConnection, String, Object(), Int32, Int32)
+- uid: Mellivora.DbConnectionByInstanceExtension.SingleByInstance*
+  name: SingleByInstance
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_SingleByInstance_
+  commentId: Overload:Mellivora.DbConnectionByInstanceExtension.SingleByInstance
+  fullName: Mellivora.DbConnectionByInstanceExtension.SingleByInstance
+  nameWithType: DbConnectionByInstanceExtension.SingleByInstance
+- uid: Mellivora.DbConnectionByInstanceExtension.SingleByInstance``1(IDbConnection,System.String,System.Object)
+  name: SingleByInstance<T>(IDbConnection, String, Object)
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_SingleByInstance__1_IDbConnection_System_String_System_Object_
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.SingleByInstance``1(IDbConnection,System.String,System.Object)
+  name.vb: SingleByInstance(Of T)(IDbConnection, String, Object)
+  fullName: Mellivora.DbConnectionByInstanceExtension.SingleByInstance<T>(IDbConnection, System.String, System.Object)
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.SingleByInstance(Of T)(IDbConnection, System.String, System.Object)
+  nameWithType: DbConnectionByInstanceExtension.SingleByInstance<T>(IDbConnection, String, Object)
+  nameWithType.vb: DbConnectionByInstanceExtension.SingleByInstance(Of T)(IDbConnection, String, Object)
+- uid: Mellivora.DbConnectionByInstanceExtension.SingleByInstance``1(IDbConnection,System.String,System.Object,System.Int32,System.Int32)
+  name: SingleByInstance<T>(IDbConnection, String, Object, Int32, Int32)
+  href: api/Mellivora.DbConnectionByInstanceExtension.html#Mellivora_DbConnectionByInstanceExtension_SingleByInstance__1_IDbConnection_System_String_System_Object_System_Int32_System_Int32_
+  commentId: M:Mellivora.DbConnectionByInstanceExtension.SingleByInstance``1(IDbConnection,System.String,System.Object,System.Int32,System.Int32)
+  name.vb: SingleByInstance(Of T)(IDbConnection, String, Object, Int32, Int32)
+  fullName: Mellivora.DbConnectionByInstanceExtension.SingleByInstance<T>(IDbConnection, System.String, System.Object, System.Int32, System.Int32)
+  fullName.vb: Mellivora.DbConnectionByInstanceExtension.SingleByInstance(Of T)(IDbConnection, System.String, System.Object, System.Int32, System.Int32)
+  nameWithType: DbConnectionByInstanceExtension.SingleByInstance<T>(IDbConnection, String, Object, Int32, Int32)
+  nameWithType.vb: DbConnectionByInstanceExtension.SingleByInstance(Of T)(IDbConnection, String, Object, Int32, Int32)
+- uid: Mellivora.DbConnectionByObjectExtension
+  name: DbConnectionByObjectExtension
+  href: api/Mellivora.DbConnectionByObjectExtension.html
+  commentId: T:Mellivora.DbConnectionByObjectExtension
+  fullName: Mellivora.DbConnectionByObjectExtension
+  nameWithType: DbConnectionByObjectExtension
+- uid: Mellivora.DbConnectionByObjectExtension.ExecuteNonQueryByObject(IDbConnection,System.String,System.Object[])
+  name: ExecuteNonQueryByObject(IDbConnection, String, Object[])
+  href: api/Mellivora.DbConnectionByObjectExtension.html#Mellivora_DbConnectionByObjectExtension_ExecuteNonQueryByObject_IDbConnection_System_String_System_Object___
+  commentId: M:Mellivora.DbConnectionByObjectExtension.ExecuteNonQueryByObject(IDbConnection,System.String,System.Object[])
+  name.vb: ExecuteNonQueryByObject(IDbConnection, String, Object())
+  fullName: Mellivora.DbConnectionByObjectExtension.ExecuteNonQueryByObject(IDbConnection, System.String, System.Object[])
+  fullName.vb: Mellivora.DbConnectionByObjectExtension.ExecuteNonQueryByObject(IDbConnection, System.String, System.Object())
+  nameWithType: DbConnectionByObjectExtension.ExecuteNonQueryByObject(IDbConnection, String, Object[])
+  nameWithType.vb: DbConnectionByObjectExtension.ExecuteNonQueryByObject(IDbConnection, String, Object())
+- uid: Mellivora.DbConnectionByObjectExtension.ExecuteNonQueryByObject*
+  name: ExecuteNonQueryByObject
+  href: api/Mellivora.DbConnectionByObjectExtension.html#Mellivora_DbConnectionByObjectExtension_ExecuteNonQueryByObject_
+  commentId: Overload:Mellivora.DbConnectionByObjectExtension.ExecuteNonQueryByObject
+  fullName: Mellivora.DbConnectionByObjectExtension.ExecuteNonQueryByObject
+  nameWithType: DbConnectionByObjectExtension.ExecuteNonQueryByObject
+- uid: Mellivora.DbConnectionByObjectExtension.ExecuteScalarByObject*
+  name: ExecuteScalarByObject
+  href: api/Mellivora.DbConnectionByObjectExtension.html#Mellivora_DbConnectionByObjectExtension_ExecuteScalarByObject_
+  commentId: Overload:Mellivora.DbConnectionByObjectExtension.ExecuteScalarByObject
+  fullName: Mellivora.DbConnectionByObjectExtension.ExecuteScalarByObject
+  nameWithType: DbConnectionByObjectExtension.ExecuteScalarByObject
+- uid: Mellivora.DbConnectionByObjectExtension.ExecuteScalarByObject``1(IDbConnection,System.String,System.Object[])
+  name: ExecuteScalarByObject<T>(IDbConnection, String, Object[])
+  href: api/Mellivora.DbConnectionByObjectExtension.html#Mellivora_DbConnectionByObjectExtension_ExecuteScalarByObject__1_IDbConnection_System_String_System_Object___
+  commentId: M:Mellivora.DbConnectionByObjectExtension.ExecuteScalarByObject``1(IDbConnection,System.String,System.Object[])
+  name.vb: ExecuteScalarByObject(Of T)(IDbConnection, String, Object())
+  fullName: Mellivora.DbConnectionByObjectExtension.ExecuteScalarByObject<T>(IDbConnection, System.String, System.Object[])
+  fullName.vb: Mellivora.DbConnectionByObjectExtension.ExecuteScalarByObject(Of T)(IDbConnection, System.String, System.Object())
+  nameWithType: DbConnectionByObjectExtension.ExecuteScalarByObject<T>(IDbConnection, String, Object[])
+  nameWithType.vb: DbConnectionByObjectExtension.ExecuteScalarByObject(Of T)(IDbConnection, String, Object())
+- uid: Mellivora.DbConnectionByObjectExtension.QueryByObject*
+  name: QueryByObject
+  href: api/Mellivora.DbConnectionByObjectExtension.html#Mellivora_DbConnectionByObjectExtension_QueryByObject_
+  commentId: Overload:Mellivora.DbConnectionByObjectExtension.QueryByObject
+  fullName: Mellivora.DbConnectionByObjectExtension.QueryByObject
+  nameWithType: DbConnectionByObjectExtension.QueryByObject
+- uid: Mellivora.DbConnectionByObjectExtension.QueryByObject``1(IDbConnection,System.String,System.Int32,System.Int32,System.Object[])
+  name: QueryByObject<T>(IDbConnection, String, Int32, Int32, Object[])
+  href: api/Mellivora.DbConnectionByObjectExtension.html#Mellivora_DbConnectionByObjectExtension_QueryByObject__1_IDbConnection_System_String_System_Int32_System_Int32_System_Object___
+  commentId: M:Mellivora.DbConnectionByObjectExtension.QueryByObject``1(IDbConnection,System.String,System.Int32,System.Int32,System.Object[])
+  name.vb: QueryByObject(Of T)(IDbConnection, String, Int32, Int32, Object())
+  fullName: Mellivora.DbConnectionByObjectExtension.QueryByObject<T>(IDbConnection, System.String, System.Int32, System.Int32, System.Object[])
+  fullName.vb: Mellivora.DbConnectionByObjectExtension.QueryByObject(Of T)(IDbConnection, System.String, System.Int32, System.Int32, System.Object())
+  nameWithType: DbConnectionByObjectExtension.QueryByObject<T>(IDbConnection, String, Int32, Int32, Object[])
+  nameWithType.vb: DbConnectionByObjectExtension.QueryByObject(Of T)(IDbConnection, String, Int32, Int32, Object())
+- uid: Mellivora.DbConnectionByObjectExtension.QueryByObjects*
+  name: QueryByObjects
+  href: api/Mellivora.DbConnectionByObjectExtension.html#Mellivora_DbConnectionByObjectExtension_QueryByObjects_
+  commentId: Overload:Mellivora.DbConnectionByObjectExtension.QueryByObjects
+  fullName: Mellivora.DbConnectionByObjectExtension.QueryByObjects
+  nameWithType: DbConnectionByObjectExtension.QueryByObjects
+- uid: Mellivora.DbConnectionByObjectExtension.QueryByObjects``1(IDbConnection,System.String,System.Object[])
+  name: QueryByObjects<T>(IDbConnection, String, Object[])
+  href: api/Mellivora.DbConnectionByObjectExtension.html#Mellivora_DbConnectionByObjectExtension_QueryByObjects__1_IDbConnection_System_String_System_Object___
+  commentId: M:Mellivora.DbConnectionByObjectExtension.QueryByObjects``1(IDbConnection,System.String,System.Object[])
+  name.vb: QueryByObjects(Of T)(IDbConnection, String, Object())
+  fullName: Mellivora.DbConnectionByObjectExtension.QueryByObjects<T>(IDbConnection, System.String, System.Object[])
+  fullName.vb: Mellivora.DbConnectionByObjectExtension.QueryByObjects(Of T)(IDbConnection, System.String, System.Object())
+  nameWithType: DbConnectionByObjectExtension.QueryByObjects<T>(IDbConnection, String, Object[])
+  nameWithType.vb: DbConnectionByObjectExtension.QueryByObjects(Of T)(IDbConnection, String, Object())
+- uid: Mellivora.DbConnectionCurdExtension
+  name: DbConnectionCurdExtension
+  href: api/Mellivora.DbConnectionCurdExtension.html
+  commentId: T:Mellivora.DbConnectionCurdExtension
+  fullName: Mellivora.DbConnectionCurdExtension
+  nameWithType: DbConnectionCurdExtension
+- uid: Mellivora.DbConnectionCurdExtension.Add*
+  name: Add
+  href: api/Mellivora.DbConnectionCurdExtension.html#Mellivora_DbConnectionCurdExtension_Add_
+  commentId: Overload:Mellivora.DbConnectionCurdExtension.Add
+  fullName: Mellivora.DbConnectionCurdExtension.Add
+  nameWithType: DbConnectionCurdExtension.Add
+- uid: Mellivora.DbConnectionCurdExtension.Add``1(IDbConnection,``0)
+  name: Add<T>(IDbConnection, T)
+  href: api/Mellivora.DbConnectionCurdExtension.html#Mellivora_DbConnectionCurdExtension_Add__1_IDbConnection___0_
+  commentId: M:Mellivora.DbConnectionCurdExtension.Add``1(IDbConnection,``0)
+  name.vb: Add(Of T)(IDbConnection, T)
+  fullName: Mellivora.DbConnectionCurdExtension.Add<T>(IDbConnection, T)
+  fullName.vb: Mellivora.DbConnectionCurdExtension.Add(Of T)(IDbConnection, T)
+  nameWithType: DbConnectionCurdExtension.Add<T>(IDbConnection, T)
+  nameWithType.vb: DbConnectionCurdExtension.Add(Of T)(IDbConnection, T)
+- uid: Mellivora.DbConnectionCurdExtension.Delete*
+  name: Delete
+  href: api/Mellivora.DbConnectionCurdExtension.html#Mellivora_DbConnectionCurdExtension_Delete_
+  commentId: Overload:Mellivora.DbConnectionCurdExtension.Delete
+  fullName: Mellivora.DbConnectionCurdExtension.Delete
+  nameWithType: DbConnectionCurdExtension.Delete
+- uid: Mellivora.DbConnectionCurdExtension.Delete``1(IDbConnection,``0)
+  name: Delete<T>(IDbConnection, T)
+  href: api/Mellivora.DbConnectionCurdExtension.html#Mellivora_DbConnectionCurdExtension_Delete__1_IDbConnection___0_
+  commentId: M:Mellivora.DbConnectionCurdExtension.Delete``1(IDbConnection,``0)
+  name.vb: Delete(Of T)(IDbConnection, T)
+  fullName: Mellivora.DbConnectionCurdExtension.Delete<T>(IDbConnection, T)
+  fullName.vb: Mellivora.DbConnectionCurdExtension.Delete(Of T)(IDbConnection, T)
+  nameWithType: DbConnectionCurdExtension.Delete<T>(IDbConnection, T)
+  nameWithType.vb: DbConnectionCurdExtension.Delete(Of T)(IDbConnection, T)
+- uid: Mellivora.DbConnectionCurdExtension.Get*
+  name: Get
+  href: api/Mellivora.DbConnectionCurdExtension.html#Mellivora_DbConnectionCurdExtension_Get_
+  commentId: Overload:Mellivora.DbConnectionCurdExtension.Get
+  fullName: Mellivora.DbConnectionCurdExtension.Get
+  nameWithType: DbConnectionCurdExtension.Get
+- uid: Mellivora.DbConnectionCurdExtension.Get``1(IDbConnection)
+  name: Get<T>(IDbConnection)
+  href: api/Mellivora.DbConnectionCurdExtension.html#Mellivora_DbConnectionCurdExtension_Get__1_IDbConnection_
+  commentId: M:Mellivora.DbConnectionCurdExtension.Get``1(IDbConnection)
+  name.vb: Get(Of T)(IDbConnection)
+  fullName: Mellivora.DbConnectionCurdExtension.Get<T>(IDbConnection)
+  fullName.vb: Mellivora.DbConnectionCurdExtension.Get(Of T)(IDbConnection)
+  nameWithType: DbConnectionCurdExtension.Get<T>(IDbConnection)
+  nameWithType.vb: DbConnectionCurdExtension.Get(Of T)(IDbConnection)
+- uid: Mellivora.DbConnectionCurdExtension.Modify*
+  name: Modify
+  href: api/Mellivora.DbConnectionCurdExtension.html#Mellivora_DbConnectionCurdExtension_Modify_
+  commentId: Overload:Mellivora.DbConnectionCurdExtension.Modify
+  fullName: Mellivora.DbConnectionCurdExtension.Modify
+  nameWithType: DbConnectionCurdExtension.Modify
+- uid: Mellivora.DbConnectionCurdExtension.Modify``1(IDbConnection,``0)
+  name: Modify<T>(IDbConnection, T)
+  href: api/Mellivora.DbConnectionCurdExtension.html#Mellivora_DbConnectionCurdExtension_Modify__1_IDbConnection___0_
+  commentId: M:Mellivora.DbConnectionCurdExtension.Modify``1(IDbConnection,``0)
+  name.vb: Modify(Of T)(IDbConnection, T)
+  fullName: Mellivora.DbConnectionCurdExtension.Modify<T>(IDbConnection, T)
+  fullName.vb: Mellivora.DbConnectionCurdExtension.Modify(Of T)(IDbConnection, T)
+  nameWithType: DbConnectionCurdExtension.Modify<T>(IDbConnection, T)
+  nameWithType.vb: DbConnectionCurdExtension.Modify(Of T)(IDbConnection, T)
+- uid: Mellivora.DbConnectionOriginalExtension
+  name: DbConnectionOriginalExtension
+  href: api/Mellivora.DbConnectionOriginalExtension.html
+  commentId: T:Mellivora.DbConnectionOriginalExtension
+  fullName: Mellivora.DbConnectionOriginalExtension
+  nameWithType: DbConnectionOriginalExtension
+- uid: Mellivora.DbConnectionOriginalExtension.ExecuteNonQuery(IDbConnection,System.String)
+  name: ExecuteNonQuery(IDbConnection, String)
+  href: api/Mellivora.DbConnectionOriginalExtension.html#Mellivora_DbConnectionOriginalExtension_ExecuteNonQuery_IDbConnection_System_String_
+  commentId: M:Mellivora.DbConnectionOriginalExtension.ExecuteNonQuery(IDbConnection,System.String)
+  fullName: Mellivora.DbConnectionOriginalExtension.ExecuteNonQuery(IDbConnection, System.String)
+  nameWithType: DbConnectionOriginalExtension.ExecuteNonQuery(IDbConnection, String)
+- uid: Mellivora.DbConnectionOriginalExtension.ExecuteNonQuery*
+  name: ExecuteNonQuery
+  href: api/Mellivora.DbConnectionOriginalExtension.html#Mellivora_DbConnectionOriginalExtension_ExecuteNonQuery_
+  commentId: Overload:Mellivora.DbConnectionOriginalExtension.ExecuteNonQuery
+  fullName: Mellivora.DbConnectionOriginalExtension.ExecuteNonQuery
+  nameWithType: DbConnectionOriginalExtension.ExecuteNonQuery
+- uid: Mellivora.DbConnectionOriginalExtension.ExecuteScalar(IDbConnection,System.String)
+  name: ExecuteScalar(IDbConnection, String)
+  href: api/Mellivora.DbConnectionOriginalExtension.html#Mellivora_DbConnectionOriginalExtension_ExecuteScalar_IDbConnection_System_String_
+  commentId: M:Mellivora.DbConnectionOriginalExtension.ExecuteScalar(IDbConnection,System.String)
+  fullName: Mellivora.DbConnectionOriginalExtension.ExecuteScalar(IDbConnection, System.String)
+  nameWithType: DbConnectionOriginalExtension.ExecuteScalar(IDbConnection, String)
+- uid: Mellivora.DbConnectionOriginalExtension.ExecuteScalar*
+  name: ExecuteScalar
+  href: api/Mellivora.DbConnectionOriginalExtension.html#Mellivora_DbConnectionOriginalExtension_ExecuteScalar_
+  commentId: Overload:Mellivora.DbConnectionOriginalExtension.ExecuteScalar
+  fullName: Mellivora.DbConnectionOriginalExtension.ExecuteScalar
+  nameWithType: DbConnectionOriginalExtension.ExecuteScalar
+- uid: Mellivora.DbConnectionOriginalExtension.ExecuteScalar``1(IDbConnection,System.String)
+  name: ExecuteScalar<T>(IDbConnection, String)
+  href: api/Mellivora.DbConnectionOriginalExtension.html#Mellivora_DbConnectionOriginalExtension_ExecuteScalar__1_IDbConnection_System_String_
+  commentId: M:Mellivora.DbConnectionOriginalExtension.ExecuteScalar``1(IDbConnection,System.String)
+  name.vb: ExecuteScalar(Of T)(IDbConnection, String)
+  fullName: Mellivora.DbConnectionOriginalExtension.ExecuteScalar<T>(IDbConnection, System.String)
+  fullName.vb: Mellivora.DbConnectionOriginalExtension.ExecuteScalar(Of T)(IDbConnection, System.String)
+  nameWithType: DbConnectionOriginalExtension.ExecuteScalar<T>(IDbConnection, String)
+  nameWithType.vb: DbConnectionOriginalExtension.ExecuteScalar(Of T)(IDbConnection, String)
+- uid: Mellivora.DbConnectionOriginalExtension.GetCollection*
+  name: GetCollection
+  href: api/Mellivora.DbConnectionOriginalExtension.html#Mellivora_DbConnectionOriginalExtension_GetCollection_
+  commentId: Overload:Mellivora.DbConnectionOriginalExtension.GetCollection
+  fullName: Mellivora.DbConnectionOriginalExtension.GetCollection
+  nameWithType: DbConnectionOriginalExtension.GetCollection
+- uid: Mellivora.DbConnectionOriginalExtension.GetCollection``1(IDbConnection,System.String)
+  name: GetCollection<T>(IDbConnection, String)
+  href: api/Mellivora.DbConnectionOriginalExtension.html#Mellivora_DbConnectionOriginalExtension_GetCollection__1_IDbConnection_System_String_
+  commentId: M:Mellivora.DbConnectionOriginalExtension.GetCollection``1(IDbConnection,System.String)
+  name.vb: GetCollection(Of T)(IDbConnection, String)
+  fullName: Mellivora.DbConnectionOriginalExtension.GetCollection<T>(IDbConnection, System.String)
+  fullName.vb: Mellivora.DbConnectionOriginalExtension.GetCollection(Of T)(IDbConnection, System.String)
+  nameWithType: DbConnectionOriginalExtension.GetCollection<T>(IDbConnection, String)
+  nameWithType.vb: DbConnectionOriginalExtension.GetCollection(Of T)(IDbConnection, String)
+- uid: Mellivora.DbConnectionOriginalExtension.GetCollection``1(IDbConnection,System.String,System.Int32,System.Int32)
+  name: GetCollection<T>(IDbConnection, String, Int32, Int32)
+  href: api/Mellivora.DbConnectionOriginalExtension.html#Mellivora_DbConnectionOriginalExtension_GetCollection__1_IDbConnection_System_String_System_Int32_System_Int32_
+  commentId: M:Mellivora.DbConnectionOriginalExtension.GetCollection``1(IDbConnection,System.String,System.Int32,System.Int32)
+  name.vb: GetCollection(Of T)(IDbConnection, String, Int32, Int32)
+  fullName: Mellivora.DbConnectionOriginalExtension.GetCollection<T>(IDbConnection, System.String, System.Int32, System.Int32)
+  fullName.vb: Mellivora.DbConnectionOriginalExtension.GetCollection(Of T)(IDbConnection, System.String, System.Int32, System.Int32)
+  nameWithType: DbConnectionOriginalExtension.GetCollection<T>(IDbConnection, String, Int32, Int32)
+  nameWithType.vb: DbConnectionOriginalExtension.GetCollection(Of T)(IDbConnection, String, Int32, Int32)
+- uid: Mellivora.DynamicCache
+  name: Mellivora.DynamicCache
+  href: api/Mellivora.DynamicCache.html
+  commentId: N:Mellivora.DynamicCache
+  fullName: Mellivora.DynamicCache
+  nameWithType: Mellivora.DynamicCache
+- uid: Mellivora.DynamicCache.SqlDelegate`1
+  name: SqlDelegate<T>
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.html
+  commentId: T:Mellivora.DynamicCache.SqlDelegate`1
+  name.vb: SqlDelegate(Of T)
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T)
+  nameWithType: SqlDelegate<T>
+  nameWithType.vb: SqlDelegate(Of T)
+- uid: Mellivora.DynamicCache.SqlDelegate`1.CommandGenericCache
+  name: CommandGenericCache
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.html#Mellivora_DynamicCache_SqlDelegate_1_CommandGenericCache
+  commentId: F:Mellivora.DynamicCache.SqlDelegate`1.CommandGenericCache
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.CommandGenericCache
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).CommandGenericCache
+  nameWithType: SqlDelegate<T>.CommandGenericCache
+  nameWithType.vb: SqlDelegate(Of T).CommandGenericCache
+- uid: Mellivora.DynamicCache.SqlDelegate`1.CommandInstancesCache
+  name: CommandInstancesCache
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.html#Mellivora_DynamicCache_SqlDelegate_1_CommandInstancesCache
+  commentId: F:Mellivora.DynamicCache.SqlDelegate`1.CommandInstancesCache
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.CommandInstancesCache
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).CommandInstancesCache
+  nameWithType: SqlDelegate<T>.CommandInstancesCache
+  nameWithType.vb: SqlDelegate(Of T).CommandInstancesCache
+- uid: Mellivora.DynamicCache.SqlDelegate`1.CommandObjectsCache
+  name: CommandObjectsCache
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.html#Mellivora_DynamicCache_SqlDelegate_1_CommandObjectsCache
+  commentId: F:Mellivora.DynamicCache.SqlDelegate`1.CommandObjectsCache
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.CommandObjectsCache
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).CommandObjectsCache
+  nameWithType: SqlDelegate<T>.CommandObjectsCache
+  nameWithType.vb: SqlDelegate(Of T).CommandObjectsCache
+- uid: Mellivora.DynamicCache.SqlDelegate`1.ComplexReaderCache
+  name: ComplexReaderCache
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.html#Mellivora_DynamicCache_SqlDelegate_1_ComplexReaderCache
+  commentId: F:Mellivora.DynamicCache.SqlDelegate`1.ComplexReaderCache
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.ComplexReaderCache
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).ComplexReaderCache
+  nameWithType: SqlDelegate<T>.ComplexReaderCache
+  nameWithType.vb: SqlDelegate(Of T).ComplexReaderCache
+- uid: Mellivora.DynamicCache.SqlDelegate`1.GetCommandByInstance
+  name: SqlDelegate<T>.GetCommandByInstance
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.GetCommandByInstance.html
+  commentId: T:Mellivora.DynamicCache.SqlDelegate`1.GetCommandByInstance
+  name.vb: SqlDelegate(Of T).GetCommandByInstance
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.GetCommandByInstance
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).GetCommandByInstance
+  nameWithType: SqlDelegate<T>.GetCommandByInstance
+  nameWithType.vb: SqlDelegate(Of T).GetCommandByInstance
+- uid: Mellivora.DynamicCache.SqlDelegate`1.GetCommandByObject
+  name: SqlDelegate<T>.GetCommandByObject
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.GetCommandByObject.html
+  commentId: T:Mellivora.DynamicCache.SqlDelegate`1.GetCommandByObject
+  name.vb: SqlDelegate(Of T).GetCommandByObject
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.GetCommandByObject
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).GetCommandByObject
+  nameWithType: SqlDelegate<T>.GetCommandByObject
+  nameWithType.vb: SqlDelegate(Of T).GetCommandByObject
+- uid: Mellivora.DynamicCache.SqlDelegate`1.GetGenericCommand
+  name: SqlDelegate<T>.GetGenericCommand
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.GetGenericCommand.html
+  commentId: T:Mellivora.DynamicCache.SqlDelegate`1.GetGenericCommand
+  name.vb: SqlDelegate(Of T).GetGenericCommand
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.GetGenericCommand
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).GetGenericCommand
+  nameWithType: SqlDelegate<T>.GetGenericCommand
+  nameWithType.vb: SqlDelegate(Of T).GetGenericCommand
+- uid: Mellivora.DynamicCache.SqlDelegate`1.GetReaderInstance
+  name: SqlDelegate<T>.GetReaderInstance
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.GetReaderInstance.html
+  commentId: T:Mellivora.DynamicCache.SqlDelegate`1.GetReaderInstance
+  name.vb: SqlDelegate(Of T).GetReaderInstance
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.GetReaderInstance
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).GetReaderInstance
+  nameWithType: SqlDelegate<T>.GetReaderInstance
+  nameWithType.vb: SqlDelegate(Of T).GetReaderInstance
+- uid: Mellivora.DynamicCache.SqlDelegate`1.SingleReaderCache
+  name: SingleReaderCache
+  href: api/Mellivora.DynamicCache.SqlDelegate-1.html#Mellivora_DynamicCache_SqlDelegate_1_SingleReaderCache
+  commentId: F:Mellivora.DynamicCache.SqlDelegate`1.SingleReaderCache
+  fullName: Mellivora.DynamicCache.SqlDelegate<T>.SingleReaderCache
+  fullName.vb: Mellivora.DynamicCache.SqlDelegate(Of T).SingleReaderCache
+  nameWithType: SqlDelegate<T>.SingleReaderCache
+  nameWithType.vb: SqlDelegate(Of T).SingleReaderCache
+- uid: Mellivora.DynamicCache.SqlDynamicCache
+  name: SqlDynamicCache
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html
+  commentId: T:Mellivora.DynamicCache.SqlDynamicCache
+  fullName: Mellivora.DynamicCache.SqlDynamicCache
+  nameWithType: SqlDynamicCache
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetCommandGenericDelegate*
+  name: GetCommandGenericDelegate
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetCommandGenericDelegate_
+  commentId: Overload:Mellivora.DynamicCache.SqlDynamicCache.GetCommandGenericDelegate
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetCommandGenericDelegate
+  nameWithType: SqlDynamicCache.GetCommandGenericDelegate
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetCommandGenericDelegate``1(System.String,``0)
+  name: GetCommandGenericDelegate<T>(String, T)
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetCommandGenericDelegate__1_System_String___0_
+  commentId: M:Mellivora.DynamicCache.SqlDynamicCache.GetCommandGenericDelegate``1(System.String,``0)
+  name.vb: GetCommandGenericDelegate(Of T)(String, T)
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetCommandGenericDelegate<T>(System.String, T)
+  fullName.vb: Mellivora.DynamicCache.SqlDynamicCache.GetCommandGenericDelegate(Of T)(System.String, T)
+  nameWithType: SqlDynamicCache.GetCommandGenericDelegate<T>(String, T)
+  nameWithType.vb: SqlDynamicCache.GetCommandGenericDelegate(Of T)(String, T)
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetInstanceCommandDelegate*
+  name: GetInstanceCommandDelegate
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetInstanceCommandDelegate_
+  commentId: Overload:Mellivora.DynamicCache.SqlDynamicCache.GetInstanceCommandDelegate
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetInstanceCommandDelegate
+  nameWithType: SqlDynamicCache.GetInstanceCommandDelegate
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetInstanceCommandDelegate``1(System.String,System.Object)
+  name: GetInstanceCommandDelegate<T>(String, Object)
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetInstanceCommandDelegate__1_System_String_System_Object_
+  commentId: M:Mellivora.DynamicCache.SqlDynamicCache.GetInstanceCommandDelegate``1(System.String,System.Object)
+  name.vb: GetInstanceCommandDelegate(Of T)(String, Object)
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetInstanceCommandDelegate<T>(System.String, System.Object)
+  fullName.vb: Mellivora.DynamicCache.SqlDynamicCache.GetInstanceCommandDelegate(Of T)(System.String, System.Object)
+  nameWithType: SqlDynamicCache.GetInstanceCommandDelegate<T>(String, Object)
+  nameWithType.vb: SqlDynamicCache.GetInstanceCommandDelegate(Of T)(String, Object)
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetObjectsCommandDelegate*
+  name: GetObjectsCommandDelegate
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetObjectsCommandDelegate_
+  commentId: Overload:Mellivora.DynamicCache.SqlDynamicCache.GetObjectsCommandDelegate
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetObjectsCommandDelegate
+  nameWithType: SqlDynamicCache.GetObjectsCommandDelegate
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetObjectsCommandDelegate``1(System.String,System.Object[])
+  name: GetObjectsCommandDelegate<T>(String, Object[])
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetObjectsCommandDelegate__1_System_String_System_Object___
+  commentId: M:Mellivora.DynamicCache.SqlDynamicCache.GetObjectsCommandDelegate``1(System.String,System.Object[])
+  name.vb: GetObjectsCommandDelegate(Of T)(String, Object())
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetObjectsCommandDelegate<T>(System.String, System.Object[])
+  fullName.vb: Mellivora.DynamicCache.SqlDynamicCache.GetObjectsCommandDelegate(Of T)(System.String, System.Object())
+  nameWithType: SqlDynamicCache.GetObjectsCommandDelegate<T>(String, Object[])
+  nameWithType.vb: SqlDynamicCache.GetObjectsCommandDelegate(Of T)(String, Object())
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate*
+  name: GetReaderDelegate
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetReaderDelegate_
+  commentId: Overload:Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate
+  nameWithType: SqlDynamicCache.GetReaderDelegate
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate``1(IDataReader,System.String)
+  name: GetReaderDelegate<T>(IDataReader, String)
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetReaderDelegate__1_IDataReader_System_String_
+  commentId: M:Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate``1(IDataReader,System.String)
+  name.vb: GetReaderDelegate(Of T)(IDataReader, String)
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate<T>(IDataReader, System.String)
+  fullName.vb: Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate(Of T)(IDataReader, System.String)
+  nameWithType: SqlDynamicCache.GetReaderDelegate<T>(IDataReader, String)
+  nameWithType.vb: SqlDynamicCache.GetReaderDelegate(Of T)(IDataReader, String)
+- uid: Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate``1(IDataReader,System.String,System.Int32,System.Int32)
+  name: GetReaderDelegate<T>(IDataReader, String, Int32, Int32)
+  href: api/Mellivora.DynamicCache.SqlDynamicCache.html#Mellivora_DynamicCache_SqlDynamicCache_GetReaderDelegate__1_IDataReader_System_String_System_Int32_System_Int32_
+  commentId: M:Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate``1(IDataReader,System.String,System.Int32,System.Int32)
+  name.vb: GetReaderDelegate(Of T)(IDataReader, String, Int32, Int32)
+  fullName: Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate<T>(IDataReader, System.String, System.Int32, System.Int32)
+  fullName.vb: Mellivora.DynamicCache.SqlDynamicCache.GetReaderDelegate(Of T)(IDataReader, System.String, System.Int32, System.Int32)
+  nameWithType: SqlDynamicCache.GetReaderDelegate<T>(IDataReader, String, Int32, Int32)
+  nameWithType.vb: SqlDynamicCache.GetReaderDelegate(Of T)(IDataReader, String, Int32, Int32)
+- uid: Vasily
+  name: Vasily
+  href: api/Vasily.html
+  commentId: N:Vasily
+  fullName: Vasily
+  nameWithType: Vasily
+- uid: Vasily.AllocateStringDelegate
+  name: AllocateStringDelegate
+  href: api/Vasily.AllocateStringDelegate.html
+  commentId: T:Vasily.AllocateStringDelegate
+  fullName: Vasily.AllocateStringDelegate
+  nameWithType: AllocateStringDelegate
+- uid: Vasily.AndEquAttribute
+  name: AndEquAttribute
+  href: api/Vasily.AndEquAttribute.html
+  commentId: T:Vasily.AndEquAttribute
+  fullName: Vasily.AndEquAttribute
+  nameWithType: AndEquAttribute
+- uid: Vasily.AndEquAttribute.#ctor(System.String[])
+  name: AndEquAttribute(String[])
+  href: api/Vasily.AndEquAttribute.html#Vasily_AndEquAttribute__ctor_System_String___
+  commentId: M:Vasily.AndEquAttribute.#ctor(System.String[])
+  name.vb: AndEquAttribute(String())
+  fullName: Vasily.AndEquAttribute.AndEquAttribute(System.String[])
+  fullName.vb: Vasily.AndEquAttribute.AndEquAttribute(System.String())
+  nameWithType: AndEquAttribute.AndEquAttribute(String[])
+  nameWithType.vb: AndEquAttribute.AndEquAttribute(String())
+- uid: Vasily.AndEquAttribute.#ctor*
+  name: AndEquAttribute
+  href: api/Vasily.AndEquAttribute.html#Vasily_AndEquAttribute__ctor_
+  commentId: Overload:Vasily.AndEquAttribute.#ctor
+  fullName: Vasily.AndEquAttribute.AndEquAttribute
+  nameWithType: AndEquAttribute.AndEquAttribute
+- uid: Vasily.AndEquAttribute.CChar
+  name: CChar
+  href: api/Vasily.AndEquAttribute.html#Vasily_AndEquAttribute_CChar
+  commentId: P:Vasily.AndEquAttribute.CChar
+  fullName: Vasily.AndEquAttribute.CChar
+  nameWithType: AndEquAttribute.CChar
+- uid: Vasily.AndEquAttribute.CChar*
+  name: CChar
+  href: api/Vasily.AndEquAttribute.html#Vasily_AndEquAttribute_CChar_
+  commentId: Overload:Vasily.AndEquAttribute.CChar
+  fullName: Vasily.AndEquAttribute.CChar
+  nameWithType: AndEquAttribute.CChar
+- uid: Vasily.AndEquAttribute.Keys
+  name: Keys
+  href: api/Vasily.AndEquAttribute.html#Vasily_AndEquAttribute_Keys
+  commentId: P:Vasily.AndEquAttribute.Keys
+  fullName: Vasily.AndEquAttribute.Keys
+  nameWithType: AndEquAttribute.Keys
+- uid: Vasily.AndEquAttribute.Keys*
+  name: Keys
+  href: api/Vasily.AndEquAttribute.html#Vasily_AndEquAttribute_Keys_
+  commentId: Overload:Vasily.AndEquAttribute.Keys
+  fullName: Vasily.AndEquAttribute.Keys
+  nameWithType: AndEquAttribute.Keys
+- uid: Vasily.AndEquAttribute.OChar
+  name: OChar
+  href: api/Vasily.AndEquAttribute.html#Vasily_AndEquAttribute_OChar
+  commentId: P:Vasily.AndEquAttribute.OChar
+  fullName: Vasily.AndEquAttribute.OChar
+  nameWithType: AndEquAttribute.OChar
+- uid: Vasily.AndEquAttribute.OChar*
+  name: OChar
+  href: api/Vasily.AndEquAttribute.html#Vasily_AndEquAttribute_OChar_
+  commentId: Overload:Vasily.AndEquAttribute.OChar
+  fullName: Vasily.AndEquAttribute.OChar
+  nameWithType: AndEquAttribute.OChar
+- uid: Vasily.AndGeqAttribute
+  name: AndGeqAttribute
+  href: api/Vasily.AndGeqAttribute.html
+  commentId: T:Vasily.AndGeqAttribute
+  fullName: Vasily.AndGeqAttribute
+  nameWithType: AndGeqAttribute
+- uid: Vasily.AndGeqAttribute.#ctor(System.String[])
+  name: AndGeqAttribute(String[])
+  href: api/Vasily.AndGeqAttribute.html#Vasily_AndGeqAttribute__ctor_System_String___
+  commentId: M:Vasily.AndGeqAttribute.#ctor(System.String[])
+  name.vb: AndGeqAttribute(String())
+  fullName: Vasily.AndGeqAttribute.AndGeqAttribute(System.String[])
+  fullName.vb: Vasily.AndGeqAttribute.AndGeqAttribute(System.String())
+  nameWithType: AndGeqAttribute.AndGeqAttribute(String[])
+  nameWithType.vb: AndGeqAttribute.AndGeqAttribute(String())
+- uid: Vasily.AndGeqAttribute.#ctor*
+  name: AndGeqAttribute
+  href: api/Vasily.AndGeqAttribute.html#Vasily_AndGeqAttribute__ctor_
+  commentId: Overload:Vasily.AndGeqAttribute.#ctor
+  fullName: Vasily.AndGeqAttribute.AndGeqAttribute
+  nameWithType: AndGeqAttribute.AndGeqAttribute
+- uid: Vasily.AndGeqAttribute.CChar
+  name: CChar
+  href: api/Vasily.AndGeqAttribute.html#Vasily_AndGeqAttribute_CChar
+  commentId: P:Vasily.AndGeqAttribute.CChar
+  fullName: Vasily.AndGeqAttribute.CChar
+  nameWithType: AndGeqAttribute.CChar
+- uid: Vasily.AndGeqAttribute.CChar*
+  name: CChar
+  href: api/Vasily.AndGeqAttribute.html#Vasily_AndGeqAttribute_CChar_
+  commentId: Overload:Vasily.AndGeqAttribute.CChar
+  fullName: Vasily.AndGeqAttribute.CChar
+  nameWithType: AndGeqAttribute.CChar
+- uid: Vasily.AndGeqAttribute.Keys
+  name: Keys
+  href: api/Vasily.AndGeqAttribute.html#Vasily_AndGeqAttribute_Keys
+  commentId: P:Vasily.AndGeqAttribute.Keys
+  fullName: Vasily.AndGeqAttribute.Keys
+  nameWithType: AndGeqAttribute.Keys
+- uid: Vasily.AndGeqAttribute.Keys*
+  name: Keys
+  href: api/Vasily.AndGeqAttribute.html#Vasily_AndGeqAttribute_Keys_
+  commentId: Overload:Vasily.AndGeqAttribute.Keys
+  fullName: Vasily.AndGeqAttribute.Keys
+  nameWithType: AndGeqAttribute.Keys
+- uid: Vasily.AndGeqAttribute.OChar
+  name: OChar
+  href: api/Vasily.AndGeqAttribute.html#Vasily_AndGeqAttribute_OChar
+  commentId: P:Vasily.AndGeqAttribute.OChar
+  fullName: Vasily.AndGeqAttribute.OChar
+  nameWithType: AndGeqAttribute.OChar
+- uid: Vasily.AndGeqAttribute.OChar*
+  name: OChar
+  href: api/Vasily.AndGeqAttribute.html#Vasily_AndGeqAttribute_OChar_
+  commentId: Overload:Vasily.AndGeqAttribute.OChar
+  fullName: Vasily.AndGeqAttribute.OChar
+  nameWithType: AndGeqAttribute.OChar
+- uid: Vasily.AndGtrAttribute
+  name: AndGtrAttribute
+  href: api/Vasily.AndGtrAttribute.html
+  commentId: T:Vasily.AndGtrAttribute
+  fullName: Vasily.AndGtrAttribute
+  nameWithType: AndGtrAttribute
+- uid: Vasily.AndGtrAttribute.#ctor(System.String[])
+  name: AndGtrAttribute(String[])
+  href: api/Vasily.AndGtrAttribute.html#Vasily_AndGtrAttribute__ctor_System_String___
+  commentId: M:Vasily.AndGtrAttribute.#ctor(System.String[])
+  name.vb: AndGtrAttribute(String())
+  fullName: Vasily.AndGtrAttribute.AndGtrAttribute(System.String[])
+  fullName.vb: Vasily.AndGtrAttribute.AndGtrAttribute(System.String())
+  nameWithType: AndGtrAttribute.AndGtrAttribute(String[])
+  nameWithType.vb: AndGtrAttribute.AndGtrAttribute(String())
+- uid: Vasily.AndGtrAttribute.#ctor*
+  name: AndGtrAttribute
+  href: api/Vasily.AndGtrAttribute.html#Vasily_AndGtrAttribute__ctor_
+  commentId: Overload:Vasily.AndGtrAttribute.#ctor
+  fullName: Vasily.AndGtrAttribute.AndGtrAttribute
+  nameWithType: AndGtrAttribute.AndGtrAttribute
+- uid: Vasily.AndGtrAttribute.CChar
+  name: CChar
+  href: api/Vasily.AndGtrAttribute.html#Vasily_AndGtrAttribute_CChar
+  commentId: P:Vasily.AndGtrAttribute.CChar
+  fullName: Vasily.AndGtrAttribute.CChar
+  nameWithType: AndGtrAttribute.CChar
+- uid: Vasily.AndGtrAttribute.CChar*
+  name: CChar
+  href: api/Vasily.AndGtrAttribute.html#Vasily_AndGtrAttribute_CChar_
+  commentId: Overload:Vasily.AndGtrAttribute.CChar
+  fullName: Vasily.AndGtrAttribute.CChar
+  nameWithType: AndGtrAttribute.CChar
+- uid: Vasily.AndGtrAttribute.Keys
+  name: Keys
+  href: api/Vasily.AndGtrAttribute.html#Vasily_AndGtrAttribute_Keys
+  commentId: P:Vasily.AndGtrAttribute.Keys
+  fullName: Vasily.AndGtrAttribute.Keys
+  nameWithType: AndGtrAttribute.Keys
+- uid: Vasily.AndGtrAttribute.Keys*
+  name: Keys
+  href: api/Vasily.AndGtrAttribute.html#Vasily_AndGtrAttribute_Keys_
+  commentId: Overload:Vasily.AndGtrAttribute.Keys
+  fullName: Vasily.AndGtrAttribute.Keys
+  nameWithType: AndGtrAttribute.Keys
+- uid: Vasily.AndGtrAttribute.OChar
+  name: OChar
+  href: api/Vasily.AndGtrAttribute.html#Vasily_AndGtrAttribute_OChar
+  commentId: P:Vasily.AndGtrAttribute.OChar
+  fullName: Vasily.AndGtrAttribute.OChar
+  nameWithType: AndGtrAttribute.OChar
+- uid: Vasily.AndGtrAttribute.OChar*
+  name: OChar
+  href: api/Vasily.AndGtrAttribute.html#Vasily_AndGtrAttribute_OChar_
+  commentId: Overload:Vasily.AndGtrAttribute.OChar
+  fullName: Vasily.AndGtrAttribute.OChar
+  nameWithType: AndGtrAttribute.OChar
+- uid: Vasily.AndLeqAttribute
+  name: AndLeqAttribute
+  href: api/Vasily.AndLeqAttribute.html
+  commentId: T:Vasily.AndLeqAttribute
+  fullName: Vasily.AndLeqAttribute
+  nameWithType: AndLeqAttribute
+- uid: Vasily.AndLeqAttribute.#ctor(System.String[])
+  name: AndLeqAttribute(String[])
+  href: api/Vasily.AndLeqAttribute.html#Vasily_AndLeqAttribute__ctor_System_String___
+  commentId: M:Vasily.AndLeqAttribute.#ctor(System.String[])
+  name.vb: AndLeqAttribute(String())
+  fullName: Vasily.AndLeqAttribute.AndLeqAttribute(System.String[])
+  fullName.vb: Vasily.AndLeqAttribute.AndLeqAttribute(System.String())
+  nameWithType: AndLeqAttribute.AndLeqAttribute(String[])
+  nameWithType.vb: AndLeqAttribute.AndLeqAttribute(String())
+- uid: Vasily.AndLeqAttribute.#ctor*
+  name: AndLeqAttribute
+  href: api/Vasily.AndLeqAttribute.html#Vasily_AndLeqAttribute__ctor_
+  commentId: Overload:Vasily.AndLeqAttribute.#ctor
+  fullName: Vasily.AndLeqAttribute.AndLeqAttribute
+  nameWithType: AndLeqAttribute.AndLeqAttribute
+- uid: Vasily.AndLeqAttribute.CChar
+  name: CChar
+  href: api/Vasily.AndLeqAttribute.html#Vasily_AndLeqAttribute_CChar
+  commentId: P:Vasily.AndLeqAttribute.CChar
+  fullName: Vasily.AndLeqAttribute.CChar
+  nameWithType: AndLeqAttribute.CChar
+- uid: Vasily.AndLeqAttribute.CChar*
+  name: CChar
+  href: api/Vasily.AndLeqAttribute.html#Vasily_AndLeqAttribute_CChar_
+  commentId: Overload:Vasily.AndLeqAttribute.CChar
+  fullName: Vasily.AndLeqAttribute.CChar
+  nameWithType: AndLeqAttribute.CChar
+- uid: Vasily.AndLeqAttribute.Keys
+  name: Keys
+  href: api/Vasily.AndLeqAttribute.html#Vasily_AndLeqAttribute_Keys
+  commentId: P:Vasily.AndLeqAttribute.Keys
+  fullName: Vasily.AndLeqAttribute.Keys
+  nameWithType: AndLeqAttribute.Keys
+- uid: Vasily.AndLeqAttribute.Keys*
+  name: Keys
+  href: api/Vasily.AndLeqAttribute.html#Vasily_AndLeqAttribute_Keys_
+  commentId: Overload:Vasily.AndLeqAttribute.Keys
+  fullName: Vasily.AndLeqAttribute.Keys
+  nameWithType: AndLeqAttribute.Keys
+- uid: Vasily.AndLeqAttribute.OChar
+  name: OChar
+  href: api/Vasily.AndLeqAttribute.html#Vasily_AndLeqAttribute_OChar
+  commentId: P:Vasily.AndLeqAttribute.OChar
+  fullName: Vasily.AndLeqAttribute.OChar
+  nameWithType: AndLeqAttribute.OChar
+- uid: Vasily.AndLeqAttribute.OChar*
+  name: OChar
+  href: api/Vasily.AndLeqAttribute.html#Vasily_AndLeqAttribute_OChar_
+  commentId: Overload:Vasily.AndLeqAttribute.OChar
+  fullName: Vasily.AndLeqAttribute.OChar
+  nameWithType: AndLeqAttribute.OChar
+- uid: Vasily.AndLssAttribute
+  name: AndLssAttribute
+  href: api/Vasily.AndLssAttribute.html
+  commentId: T:Vasily.AndLssAttribute
+  fullName: Vasily.AndLssAttribute
+  nameWithType: AndLssAttribute
+- uid: Vasily.AndLssAttribute.#ctor(System.String[])
+  name: AndLssAttribute(String[])
+  href: api/Vasily.AndLssAttribute.html#Vasily_AndLssAttribute__ctor_System_String___
+  commentId: M:Vasily.AndLssAttribute.#ctor(System.String[])
+  name.vb: AndLssAttribute(String())
+  fullName: Vasily.AndLssAttribute.AndLssAttribute(System.String[])
+  fullName.vb: Vasily.AndLssAttribute.AndLssAttribute(System.String())
+  nameWithType: AndLssAttribute.AndLssAttribute(String[])
+  nameWithType.vb: AndLssAttribute.AndLssAttribute(String())
+- uid: Vasily.AndLssAttribute.#ctor*
+  name: AndLssAttribute
+  href: api/Vasily.AndLssAttribute.html#Vasily_AndLssAttribute__ctor_
+  commentId: Overload:Vasily.AndLssAttribute.#ctor
+  fullName: Vasily.AndLssAttribute.AndLssAttribute
+  nameWithType: AndLssAttribute.AndLssAttribute
+- uid: Vasily.AndLssAttribute.CChar
+  name: CChar
+  href: api/Vasily.AndLssAttribute.html#Vasily_AndLssAttribute_CChar
+  commentId: P:Vasily.AndLssAttribute.CChar
+  fullName: Vasily.AndLssAttribute.CChar
+  nameWithType: AndLssAttribute.CChar
+- uid: Vasily.AndLssAttribute.CChar*
+  name: CChar
+  href: api/Vasily.AndLssAttribute.html#Vasily_AndLssAttribute_CChar_
+  commentId: Overload:Vasily.AndLssAttribute.CChar
+  fullName: Vasily.AndLssAttribute.CChar
+  nameWithType: AndLssAttribute.CChar
+- uid: Vasily.AndLssAttribute.Keys
+  name: Keys
+  href: api/Vasily.AndLssAttribute.html#Vasily_AndLssAttribute_Keys
+  commentId: P:Vasily.AndLssAttribute.Keys
+  fullName: Vasily.AndLssAttribute.Keys
+  nameWithType: AndLssAttribute.Keys
+- uid: Vasily.AndLssAttribute.Keys*
+  name: Keys
+  href: api/Vasily.AndLssAttribute.html#Vasily_AndLssAttribute_Keys_
+  commentId: Overload:Vasily.AndLssAttribute.Keys
+  fullName: Vasily.AndLssAttribute.Keys
+  nameWithType: AndLssAttribute.Keys
+- uid: Vasily.AndLssAttribute.OChar
+  name: OChar
+  href: api/Vasily.AndLssAttribute.html#Vasily_AndLssAttribute_OChar
+  commentId: P:Vasily.AndLssAttribute.OChar
+  fullName: Vasily.AndLssAttribute.OChar
+  nameWithType: AndLssAttribute.OChar
+- uid: Vasily.AndLssAttribute.OChar*
+  name: OChar
+  href: api/Vasily.AndLssAttribute.html#Vasily_AndLssAttribute_OChar_
+  commentId: Overload:Vasily.AndLssAttribute.OChar
+  fullName: Vasily.AndLssAttribute.OChar
+  nameWithType: AndLssAttribute.OChar
+- uid: Vasily.AndNeqAttribute
+  name: AndNeqAttribute
+  href: api/Vasily.AndNeqAttribute.html
+  commentId: T:Vasily.AndNeqAttribute
+  fullName: Vasily.AndNeqAttribute
+  nameWithType: AndNeqAttribute
+- uid: Vasily.AndNeqAttribute.#ctor(System.String[])
+  name: AndNeqAttribute(String[])
+  href: api/Vasily.AndNeqAttribute.html#Vasily_AndNeqAttribute__ctor_System_String___
+  commentId: M:Vasily.AndNeqAttribute.#ctor(System.String[])
+  name.vb: AndNeqAttribute(String())
+  fullName: Vasily.AndNeqAttribute.AndNeqAttribute(System.String[])
+  fullName.vb: Vasily.AndNeqAttribute.AndNeqAttribute(System.String())
+  nameWithType: AndNeqAttribute.AndNeqAttribute(String[])
+  nameWithType.vb: AndNeqAttribute.AndNeqAttribute(String())
+- uid: Vasily.AndNeqAttribute.#ctor*
+  name: AndNeqAttribute
+  href: api/Vasily.AndNeqAttribute.html#Vasily_AndNeqAttribute__ctor_
+  commentId: Overload:Vasily.AndNeqAttribute.#ctor
+  fullName: Vasily.AndNeqAttribute.AndNeqAttribute
+  nameWithType: AndNeqAttribute.AndNeqAttribute
+- uid: Vasily.AndNeqAttribute.CChar
+  name: CChar
+  href: api/Vasily.AndNeqAttribute.html#Vasily_AndNeqAttribute_CChar
+  commentId: P:Vasily.AndNeqAttribute.CChar
+  fullName: Vasily.AndNeqAttribute.CChar
+  nameWithType: AndNeqAttribute.CChar
+- uid: Vasily.AndNeqAttribute.CChar*
+  name: CChar
+  href: api/Vasily.AndNeqAttribute.html#Vasily_AndNeqAttribute_CChar_
+  commentId: Overload:Vasily.AndNeqAttribute.CChar
+  fullName: Vasily.AndNeqAttribute.CChar
+  nameWithType: AndNeqAttribute.CChar
+- uid: Vasily.AndNeqAttribute.Keys
+  name: Keys
+  href: api/Vasily.AndNeqAttribute.html#Vasily_AndNeqAttribute_Keys
+  commentId: P:Vasily.AndNeqAttribute.Keys
+  fullName: Vasily.AndNeqAttribute.Keys
+  nameWithType: AndNeqAttribute.Keys
+- uid: Vasily.AndNeqAttribute.Keys*
+  name: Keys
+  href: api/Vasily.AndNeqAttribute.html#Vasily_AndNeqAttribute_Keys_
+  commentId: Overload:Vasily.AndNeqAttribute.Keys
+  fullName: Vasily.AndNeqAttribute.Keys
+  nameWithType: AndNeqAttribute.Keys
+- uid: Vasily.AndNeqAttribute.OChar
+  name: OChar
+  href: api/Vasily.AndNeqAttribute.html#Vasily_AndNeqAttribute_OChar
+  commentId: P:Vasily.AndNeqAttribute.OChar
+  fullName: Vasily.AndNeqAttribute.OChar
+  nameWithType: AndNeqAttribute.OChar
+- uid: Vasily.AndNeqAttribute.OChar*
+  name: OChar
+  href: api/Vasily.AndNeqAttribute.html#Vasily_AndNeqAttribute_OChar_
+  commentId: Overload:Vasily.AndNeqAttribute.OChar
+  fullName: Vasily.AndNeqAttribute.OChar
+  nameWithType: AndNeqAttribute.OChar
+- uid: Vasily.Cache
+  name: Cache
+  href: api/Vasily.Cache.html
+  commentId: T:Vasily.Cache
+  fullName: Vasily.Cache
+  nameWithType: Cache
+- uid: Vasily.Cache.ColumnMapCache
+  name: ColumnMapCache
+  href: api/Vasily.Cache.html#Vasily_Cache_ColumnMapCache
+  commentId: F:Vasily.Cache.ColumnMapCache
+  fullName: Vasily.Cache.ColumnMapCache
+  nameWithType: Cache.ColumnMapCache
+- uid: Vasily.Cache.OuterSelectCache
+  name: OuterSelectCache
+  href: api/Vasily.Cache.html#Vasily_Cache_OuterSelectCache
+  commentId: F:Vasily.Cache.OuterSelectCache
+  fullName: Vasily.Cache.OuterSelectCache
+  nameWithType: Cache.OuterSelectCache
+- uid: Vasily.Cache.OuterTypeCache
+  name: OuterTypeCache
+  href: api/Vasily.Cache.html#Vasily_Cache_OuterTypeCache
+  commentId: F:Vasily.Cache.OuterTypeCache
+  fullName: Vasily.Cache.OuterTypeCache
+  nameWithType: Cache.OuterTypeCache
+- uid: Vasily.Cache.SqlCache
+  name: SqlCache
+  href: api/Vasily.Cache.html#Vasily_Cache_SqlCache
+  commentId: F:Vasily.Cache.SqlCache
+  fullName: Vasily.Cache.SqlCache
+  nameWithType: Cache.SqlCache
+- uid: Vasily.Cache.StructionCache
+  name: StructionCache
+  href: api/Vasily.Cache.html#Vasily_Cache_StructionCache
+  commentId: F:Vasily.Cache.StructionCache
+  fullName: Vasily.Cache.StructionCache
+  nameWithType: Cache.StructionCache
+- uid: Vasily.ColumnAttribute
+  name: ColumnAttribute
+  href: api/Vasily.ColumnAttribute.html
+  commentId: T:Vasily.ColumnAttribute
+  fullName: Vasily.ColumnAttribute
+  nameWithType: ColumnAttribute
+- uid: Vasily.ColumnAttribute.#ctor(System.String)
+  name: ColumnAttribute(String)
+  href: api/Vasily.ColumnAttribute.html#Vasily_ColumnAttribute__ctor_System_String_
+  commentId: M:Vasily.ColumnAttribute.#ctor(System.String)
+  fullName: Vasily.ColumnAttribute.ColumnAttribute(System.String)
+  nameWithType: ColumnAttribute.ColumnAttribute(String)
+- uid: Vasily.ColumnAttribute.#ctor*
+  name: ColumnAttribute
+  href: api/Vasily.ColumnAttribute.html#Vasily_ColumnAttribute__ctor_
+  commentId: Overload:Vasily.ColumnAttribute.#ctor
+  fullName: Vasily.ColumnAttribute.ColumnAttribute
+  nameWithType: ColumnAttribute.ColumnAttribute
+- uid: Vasily.ColumnAttribute.Name
+  name: Name
+  href: api/Vasily.ColumnAttribute.html#Vasily_ColumnAttribute_Name
+  commentId: F:Vasily.ColumnAttribute.Name
+  fullName: Vasily.ColumnAttribute.Name
+  nameWithType: ColumnAttribute.Name
+- uid: Vasily.IAttributesLogicalData
+  name: IAttributesLogicalData
+  href: api/Vasily.IAttributesLogicalData.html
+  commentId: T:Vasily.IAttributesLogicalData
+  fullName: Vasily.IAttributesLogicalData
+  nameWithType: IAttributesLogicalData
+- uid: Vasily.IAttributesLogicalData.Keys
+  name: Keys
+  href: api/Vasily.IAttributesLogicalData.html#Vasily_IAttributesLogicalData_Keys
+  commentId: P:Vasily.IAttributesLogicalData.Keys
+  fullName: Vasily.IAttributesLogicalData.Keys
+  nameWithType: IAttributesLogicalData.Keys
+- uid: Vasily.IAttributesLogicalData.Keys*
+  name: Keys
+  href: api/Vasily.IAttributesLogicalData.html#Vasily_IAttributesLogicalData_Keys_
+  commentId: Overload:Vasily.IAttributesLogicalData.Keys
+  fullName: Vasily.IAttributesLogicalData.Keys
+  nameWithType: IAttributesLogicalData.Keys
+- uid: Vasily.IAttributesLogicalOperator
+  name: IAttributesLogicalOperator
+  href: api/Vasily.IAttributesLogicalOperator.html
+  commentId: T:Vasily.IAttributesLogicalOperator
+  fullName: Vasily.IAttributesLogicalOperator
+  nameWithType: IAttributesLogicalOperator
+- uid: Vasily.IAttributesLogicalOperator.CChar
+  name: CChar
+  href: api/Vasily.IAttributesLogicalOperator.html#Vasily_IAttributesLogicalOperator_CChar
+  commentId: P:Vasily.IAttributesLogicalOperator.CChar
+  fullName: Vasily.IAttributesLogicalOperator.CChar
+  nameWithType: IAttributesLogicalOperator.CChar
+- uid: Vasily.IAttributesLogicalOperator.CChar*
+  name: CChar
+  href: api/Vasily.IAttributesLogicalOperator.html#Vasily_IAttributesLogicalOperator_CChar_
+  commentId: Overload:Vasily.IAttributesLogicalOperator.CChar
+  fullName: Vasily.IAttributesLogicalOperator.CChar
+  nameWithType: IAttributesLogicalOperator.CChar
+- uid: Vasily.IAttributesLogicalOperator.Keys
+  name: Keys
+  href: api/Vasily.IAttributesLogicalOperator.html#Vasily_IAttributesLogicalOperator_Keys
+  commentId: P:Vasily.IAttributesLogicalOperator.Keys
+  fullName: Vasily.IAttributesLogicalOperator.Keys
+  nameWithType: IAttributesLogicalOperator.Keys
+- uid: Vasily.IAttributesLogicalOperator.Keys*
+  name: Keys
+  href: api/Vasily.IAttributesLogicalOperator.html#Vasily_IAttributesLogicalOperator_Keys_
+  commentId: Overload:Vasily.IAttributesLogicalOperator.Keys
+  fullName: Vasily.IAttributesLogicalOperator.Keys
+  nameWithType: IAttributesLogicalOperator.Keys
+- uid: Vasily.IAttributesLogicalOperator.OChar
+  name: OChar
+  href: api/Vasily.IAttributesLogicalOperator.html#Vasily_IAttributesLogicalOperator_OChar
+  commentId: P:Vasily.IAttributesLogicalOperator.OChar
+  fullName: Vasily.IAttributesLogicalOperator.OChar
+  nameWithType: IAttributesLogicalOperator.OChar
+- uid: Vasily.IAttributesLogicalOperator.OChar*
+  name: OChar
+  href: api/Vasily.IAttributesLogicalOperator.html#Vasily_IAttributesLogicalOperator_OChar_
+  commentId: Overload:Vasily.IAttributesLogicalOperator.OChar
+  fullName: Vasily.IAttributesLogicalOperator.OChar
+  nameWithType: IAttributesLogicalOperator.OChar
+- uid: Vasily.IgnoreAttribute
+  name: IgnoreAttribute
+  href: api/Vasily.IgnoreAttribute.html
+  commentId: T:Vasily.IgnoreAttribute
+  fullName: Vasily.IgnoreAttribute
+  nameWithType: IgnoreAttribute
+- uid: Vasily.IVasily
+  name: IVasily
+  href: api/Vasily.IVasily.html
+  commentId: T:Vasily.IVasily
+  fullName: Vasily.IVasily
+  nameWithType: IVasily
+- uid: Vasily.Main
+  name: Vasily.Main
+  href: api/Vasily.Main.html
+  commentId: N:Vasily.Main
+  fullName: Vasily.Main
+  nameWithType: Vasily.Main
+- uid: Vasily.Main.VasilyLink
+  name: VasilyLink
+  href: api/Vasily.Main.VasilyLink.html
+  commentId: T:Vasily.Main.VasilyLink
+  fullName: Vasily.Main.VasilyLink
+  nameWithType: VasilyLink
+- uid: Vasily.Main.VasilyLink.AndEqu(System.String[])
+  name: AndEqu(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndEqu_System_String___
+  commentId: M:Vasily.Main.VasilyLink.AndEqu(System.String[])
+  name.vb: AndEqu(String())
+  fullName: Vasily.Main.VasilyLink.AndEqu(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.AndEqu(System.String())
+  nameWithType: VasilyLink.AndEqu(String[])
+  nameWithType.vb: VasilyLink.AndEqu(String())
+- uid: Vasily.Main.VasilyLink.AndEqu*
+  name: AndEqu
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndEqu_
+  commentId: Overload:Vasily.Main.VasilyLink.AndEqu
+  fullName: Vasily.Main.VasilyLink.AndEqu
+  nameWithType: VasilyLink.AndEqu
+- uid: Vasily.Main.VasilyLink.AndGeq(System.String[])
+  name: AndGeq(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndGeq_System_String___
+  commentId: M:Vasily.Main.VasilyLink.AndGeq(System.String[])
+  name.vb: AndGeq(String())
+  fullName: Vasily.Main.VasilyLink.AndGeq(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.AndGeq(System.String())
+  nameWithType: VasilyLink.AndGeq(String[])
+  nameWithType.vb: VasilyLink.AndGeq(String())
+- uid: Vasily.Main.VasilyLink.AndGeq*
+  name: AndGeq
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndGeq_
+  commentId: Overload:Vasily.Main.VasilyLink.AndGeq
+  fullName: Vasily.Main.VasilyLink.AndGeq
+  nameWithType: VasilyLink.AndGeq
+- uid: Vasily.Main.VasilyLink.AndGtr(System.String[])
+  name: AndGtr(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndGtr_System_String___
+  commentId: M:Vasily.Main.VasilyLink.AndGtr(System.String[])
+  name.vb: AndGtr(String())
+  fullName: Vasily.Main.VasilyLink.AndGtr(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.AndGtr(System.String())
+  nameWithType: VasilyLink.AndGtr(String[])
+  nameWithType.vb: VasilyLink.AndGtr(String())
+- uid: Vasily.Main.VasilyLink.AndGtr*
+  name: AndGtr
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndGtr_
+  commentId: Overload:Vasily.Main.VasilyLink.AndGtr
+  fullName: Vasily.Main.VasilyLink.AndGtr
+  nameWithType: VasilyLink.AndGtr
+- uid: Vasily.Main.VasilyLink.AndLeq(System.String[])
+  name: AndLeq(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndLeq_System_String___
+  commentId: M:Vasily.Main.VasilyLink.AndLeq(System.String[])
+  name.vb: AndLeq(String())
+  fullName: Vasily.Main.VasilyLink.AndLeq(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.AndLeq(System.String())
+  nameWithType: VasilyLink.AndLeq(String[])
+  nameWithType.vb: VasilyLink.AndLeq(String())
+- uid: Vasily.Main.VasilyLink.AndLeq*
+  name: AndLeq
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndLeq_
+  commentId: Overload:Vasily.Main.VasilyLink.AndLeq
+  fullName: Vasily.Main.VasilyLink.AndLeq
+  nameWithType: VasilyLink.AndLeq
+- uid: Vasily.Main.VasilyLink.AndLss(System.String[])
+  name: AndLss(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndLss_System_String___
+  commentId: M:Vasily.Main.VasilyLink.AndLss(System.String[])
+  name.vb: AndLss(String())
+  fullName: Vasily.Main.VasilyLink.AndLss(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.AndLss(System.String())
+  nameWithType: VasilyLink.AndLss(String[])
+  nameWithType.vb: VasilyLink.AndLss(String())
+- uid: Vasily.Main.VasilyLink.AndLss*
+  name: AndLss
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndLss_
+  commentId: Overload:Vasily.Main.VasilyLink.AndLss
+  fullName: Vasily.Main.VasilyLink.AndLss
+  nameWithType: VasilyLink.AndLss
+- uid: Vasily.Main.VasilyLink.AndNeq(System.String[])
+  name: AndNeq(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndNeq_System_String___
+  commentId: M:Vasily.Main.VasilyLink.AndNeq(System.String[])
+  name.vb: AndNeq(String())
+  fullName: Vasily.Main.VasilyLink.AndNeq(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.AndNeq(System.String())
+  nameWithType: VasilyLink.AndNeq(String[])
+  nameWithType.vb: VasilyLink.AndNeq(String())
+- uid: Vasily.Main.VasilyLink.AndNeq*
+  name: AndNeq
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_AndNeq_
+  commentId: Overload:Vasily.Main.VasilyLink.AndNeq
+  fullName: Vasily.Main.VasilyLink.AndNeq
+  nameWithType: VasilyLink.AndNeq
+- uid: Vasily.Main.VasilyLink.Delete*
+  name: Delete
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Delete_
+  commentId: Overload:Vasily.Main.VasilyLink.Delete
+  fullName: Vasily.Main.VasilyLink.Delete
+  nameWithType: VasilyLink.Delete
+- uid: Vasily.Main.VasilyLink.Delete``1
+  name: Delete<T>()
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Delete__1
+  commentId: M:Vasily.Main.VasilyLink.Delete``1
+  name.vb: Delete(Of T)()
+  fullName: Vasily.Main.VasilyLink.Delete<T>()
+  fullName.vb: Vasily.Main.VasilyLink.Delete(Of T)()
+  nameWithType: VasilyLink.Delete<T>()
+  nameWithType.vb: VasilyLink.Delete(Of T)()
+- uid: Vasily.Main.VasilyLink.GroupBy(System.String[])
+  name: GroupBy(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_GroupBy_System_String___
+  commentId: M:Vasily.Main.VasilyLink.GroupBy(System.String[])
+  name.vb: GroupBy(String())
+  fullName: Vasily.Main.VasilyLink.GroupBy(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.GroupBy(System.String())
+  nameWithType: VasilyLink.GroupBy(String[])
+  nameWithType.vb: VasilyLink.GroupBy(String())
+- uid: Vasily.Main.VasilyLink.GroupBy*
+  name: GroupBy
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_GroupBy_
+  commentId: Overload:Vasily.Main.VasilyLink.GroupBy
+  fullName: Vasily.Main.VasilyLink.GroupBy
+  nameWithType: VasilyLink.GroupBy
+- uid: Vasily.Main.VasilyLink.Insert*
+  name: Insert
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Insert_
+  commentId: Overload:Vasily.Main.VasilyLink.Insert
+  fullName: Vasily.Main.VasilyLink.Insert
+  nameWithType: VasilyLink.Insert
+- uid: Vasily.Main.VasilyLink.Insert``1(System.String[])
+  name: Insert<T>(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Insert__1_System_String___
+  commentId: M:Vasily.Main.VasilyLink.Insert``1(System.String[])
+  name.vb: Insert(Of T)(String())
+  fullName: Vasily.Main.VasilyLink.Insert<T>(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.Insert(Of T)(System.String())
+  nameWithType: VasilyLink.Insert<T>(String[])
+  nameWithType.vb: VasilyLink.Insert(Of T)(String())
+- uid: Vasily.Main.VasilyLink.OrderBy(System.String[])
+  name: OrderBy(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrderBy_System_String___
+  commentId: M:Vasily.Main.VasilyLink.OrderBy(System.String[])
+  name.vb: OrderBy(String())
+  fullName: Vasily.Main.VasilyLink.OrderBy(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.OrderBy(System.String())
+  nameWithType: VasilyLink.OrderBy(String[])
+  nameWithType.vb: VasilyLink.OrderBy(String())
+- uid: Vasily.Main.VasilyLink.OrderBy*
+  name: OrderBy
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrderBy_
+  commentId: Overload:Vasily.Main.VasilyLink.OrderBy
+  fullName: Vasily.Main.VasilyLink.OrderBy
+  nameWithType: VasilyLink.OrderBy
+- uid: Vasily.Main.VasilyLink.OrEqu(System.String[])
+  name: OrEqu(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrEqu_System_String___
+  commentId: M:Vasily.Main.VasilyLink.OrEqu(System.String[])
+  name.vb: OrEqu(String())
+  fullName: Vasily.Main.VasilyLink.OrEqu(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.OrEqu(System.String())
+  nameWithType: VasilyLink.OrEqu(String[])
+  nameWithType.vb: VasilyLink.OrEqu(String())
+- uid: Vasily.Main.VasilyLink.OrEqu*
+  name: OrEqu
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrEqu_
+  commentId: Overload:Vasily.Main.VasilyLink.OrEqu
+  fullName: Vasily.Main.VasilyLink.OrEqu
+  nameWithType: VasilyLink.OrEqu
+- uid: Vasily.Main.VasilyLink.OrGeq(System.String[])
+  name: OrGeq(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrGeq_System_String___
+  commentId: M:Vasily.Main.VasilyLink.OrGeq(System.String[])
+  name.vb: OrGeq(String())
+  fullName: Vasily.Main.VasilyLink.OrGeq(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.OrGeq(System.String())
+  nameWithType: VasilyLink.OrGeq(String[])
+  nameWithType.vb: VasilyLink.OrGeq(String())
+- uid: Vasily.Main.VasilyLink.OrGeq*
+  name: OrGeq
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrGeq_
+  commentId: Overload:Vasily.Main.VasilyLink.OrGeq
+  fullName: Vasily.Main.VasilyLink.OrGeq
+  nameWithType: VasilyLink.OrGeq
+- uid: Vasily.Main.VasilyLink.OrGtr(System.String[])
+  name: OrGtr(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrGtr_System_String___
+  commentId: M:Vasily.Main.VasilyLink.OrGtr(System.String[])
+  name.vb: OrGtr(String())
+  fullName: Vasily.Main.VasilyLink.OrGtr(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.OrGtr(System.String())
+  nameWithType: VasilyLink.OrGtr(String[])
+  nameWithType.vb: VasilyLink.OrGtr(String())
+- uid: Vasily.Main.VasilyLink.OrGtr*
+  name: OrGtr
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrGtr_
+  commentId: Overload:Vasily.Main.VasilyLink.OrGtr
+  fullName: Vasily.Main.VasilyLink.OrGtr
+  nameWithType: VasilyLink.OrGtr
+- uid: Vasily.Main.VasilyLink.OrLeq(System.String[])
+  name: OrLeq(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrLeq_System_String___
+  commentId: M:Vasily.Main.VasilyLink.OrLeq(System.String[])
+  name.vb: OrLeq(String())
+  fullName: Vasily.Main.VasilyLink.OrLeq(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.OrLeq(System.String())
+  nameWithType: VasilyLink.OrLeq(String[])
+  nameWithType.vb: VasilyLink.OrLeq(String())
+- uid: Vasily.Main.VasilyLink.OrLeq*
+  name: OrLeq
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrLeq_
+  commentId: Overload:Vasily.Main.VasilyLink.OrLeq
+  fullName: Vasily.Main.VasilyLink.OrLeq
+  nameWithType: VasilyLink.OrLeq
+- uid: Vasily.Main.VasilyLink.OrLss(System.String[])
+  name: OrLss(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrLss_System_String___
+  commentId: M:Vasily.Main.VasilyLink.OrLss(System.String[])
+  name.vb: OrLss(String())
+  fullName: Vasily.Main.VasilyLink.OrLss(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.OrLss(System.String())
+  nameWithType: VasilyLink.OrLss(String[])
+  nameWithType.vb: VasilyLink.OrLss(String())
+- uid: Vasily.Main.VasilyLink.OrLss*
+  name: OrLss
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrLss_
+  commentId: Overload:Vasily.Main.VasilyLink.OrLss
+  fullName: Vasily.Main.VasilyLink.OrLss
+  nameWithType: VasilyLink.OrLss
+- uid: Vasily.Main.VasilyLink.OrNeq(System.String[])
+  name: OrNeq(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrNeq_System_String___
+  commentId: M:Vasily.Main.VasilyLink.OrNeq(System.String[])
+  name.vb: OrNeq(String())
+  fullName: Vasily.Main.VasilyLink.OrNeq(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.OrNeq(System.String())
+  nameWithType: VasilyLink.OrNeq(String[])
+  nameWithType.vb: VasilyLink.OrNeq(String())
+- uid: Vasily.Main.VasilyLink.OrNeq*
+  name: OrNeq
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_OrNeq_
+  commentId: Overload:Vasily.Main.VasilyLink.OrNeq
+  fullName: Vasily.Main.VasilyLink.OrNeq
+  nameWithType: VasilyLink.OrNeq
+- uid: Vasily.Main.VasilyLink.Repeate*
+  name: Repeate
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Repeate_
+  commentId: Overload:Vasily.Main.VasilyLink.Repeate
+  fullName: Vasily.Main.VasilyLink.Repeate
+  nameWithType: VasilyLink.Repeate
+- uid: Vasily.Main.VasilyLink.Repeate``1(System.String[])
+  name: Repeate<T>(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Repeate__1_System_String___
+  commentId: M:Vasily.Main.VasilyLink.Repeate``1(System.String[])
+  name.vb: Repeate(Of T)(String())
+  fullName: Vasily.Main.VasilyLink.Repeate<T>(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.Repeate(Of T)(System.String())
+  nameWithType: VasilyLink.Repeate<T>(String[])
+  nameWithType.vb: VasilyLink.Repeate(Of T)(String())
+- uid: Vasily.Main.VasilyLink.Select*
+  name: Select
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Select_
+  commentId: Overload:Vasily.Main.VasilyLink.Select
+  fullName: Vasily.Main.VasilyLink.Select
+  nameWithType: VasilyLink.Select
+- uid: Vasily.Main.VasilyLink.Select``1(System.String[])
+  name: Select<T>(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Select__1_System_String___
+  commentId: M:Vasily.Main.VasilyLink.Select``1(System.String[])
+  name.vb: Select(Of T)(String())
+  fullName: Vasily.Main.VasilyLink.Select<T>(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.Select(Of T)(System.String())
+  nameWithType: VasilyLink.Select<T>(String[])
+  nameWithType.vb: VasilyLink.Select(Of T)(String())
+- uid: Vasily.Main.VasilyLink.SqlString
+  name: SqlString
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_SqlString
+  commentId: P:Vasily.Main.VasilyLink.SqlString
+  fullName: Vasily.Main.VasilyLink.SqlString
+  nameWithType: VasilyLink.SqlString
+- uid: Vasily.Main.VasilyLink.SqlString*
+  name: SqlString
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_SqlString_
+  commentId: Overload:Vasily.Main.VasilyLink.SqlString
+  fullName: Vasily.Main.VasilyLink.SqlString
+  nameWithType: VasilyLink.SqlString
+- uid: Vasily.Main.VasilyLink.Update*
+  name: Update
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Update_
+  commentId: Overload:Vasily.Main.VasilyLink.Update
+  fullName: Vasily.Main.VasilyLink.Update
+  nameWithType: VasilyLink.Update
+- uid: Vasily.Main.VasilyLink.Update``1(System.String[])
+  name: Update<T>(String[])
+  href: api/Vasily.Main.VasilyLink.html#Vasily_Main_VasilyLink_Update__1_System_String___
+  commentId: M:Vasily.Main.VasilyLink.Update``1(System.String[])
+  name.vb: Update(Of T)(String())
+  fullName: Vasily.Main.VasilyLink.Update<T>(System.String[])
+  fullName.vb: Vasily.Main.VasilyLink.Update(Of T)(System.String())
+  nameWithType: VasilyLink.Update<T>(String[])
+  nameWithType.vb: VasilyLink.Update(Of T)(String())
+- uid: Vasily.Model
+  name: Vasily.Model
+  href: api/Vasily.Model.html
+  commentId: N:Vasily.Model
+  fullName: Vasily.Model
+  nameWithType: Vasily.Model
+- uid: Vasily.Model.ALStruct
+  name: ALStruct
+  href: api/Vasily.Model.ALStruct.html
+  commentId: T:Vasily.Model.ALStruct
+  fullName: Vasily.Model.ALStruct
+  nameWithType: ALStruct
+- uid: Vasily.Model.ALStruct.#ctor
+  name: ALStruct()
+  href: api/Vasily.Model.ALStruct.html#Vasily_Model_ALStruct__ctor
+  commentId: M:Vasily.Model.ALStruct.#ctor
+  fullName: Vasily.Model.ALStruct.ALStruct()
+  nameWithType: ALStruct.ALStruct()
+- uid: Vasily.Model.ALStruct.#ctor*
+  name: ALStruct
+  href: api/Vasily.Model.ALStruct.html#Vasily_Model_ALStruct__ctor_
+  commentId: Overload:Vasily.Model.ALStruct.#ctor
+  fullName: Vasily.Model.ALStruct.ALStruct
+  nameWithType: ALStruct.ALStruct
+- uid: Vasily.Model.ALStruct.CChar
+  name: CChar
+  href: api/Vasily.Model.ALStruct.html#Vasily_Model_ALStruct_CChar
+  commentId: F:Vasily.Model.ALStruct.CChar
+  fullName: Vasily.Model.ALStruct.CChar
+  nameWithType: ALStruct.CChar
+- uid: Vasily.Model.ALStruct.Data
+  name: Data
+  href: api/Vasily.Model.ALStruct.html#Vasily_Model_ALStruct_Data
+  commentId: F:Vasily.Model.ALStruct.Data
+  fullName: Vasily.Model.ALStruct.Data
+  nameWithType: ALStruct.Data
+- uid: Vasily.Model.ALStruct.OChar
+  name: OChar
+  href: api/Vasily.Model.ALStruct.html#Vasily_Model_ALStruct_OChar
+  commentId: F:Vasily.Model.ALStruct.OChar
+  fullName: Vasily.Model.ALStruct.OChar
+  nameWithType: ALStruct.OChar
+- uid: Vasily.Model.OperatorChar
+  name: OperatorChar
+  href: api/Vasily.Model.OperatorChar.html
+  commentId: T:Vasily.Model.OperatorChar
+  fullName: Vasily.Model.OperatorChar
+  nameWithType: OperatorChar
+- uid: Vasily.Model.OperatorChar.AND
+  name: AND
+  href: api/Vasily.Model.OperatorChar.html#Vasily_Model_OperatorChar_AND
+  commentId: F:Vasily.Model.OperatorChar.AND
+  fullName: Vasily.Model.OperatorChar.AND
+  nameWithType: OperatorChar.AND
+- uid: Vasily.Model.OperatorChar.EQU
+  name: EQU
+  href: api/Vasily.Model.OperatorChar.html#Vasily_Model_OperatorChar_EQU
+  commentId: F:Vasily.Model.OperatorChar.EQU
+  fullName: Vasily.Model.OperatorChar.EQU
+  nameWithType: OperatorChar.EQU
+- uid: Vasily.Model.OperatorChar.GEQ
+  name: GEQ
+  href: api/Vasily.Model.OperatorChar.html#Vasily_Model_OperatorChar_GEQ
+  commentId: F:Vasily.Model.OperatorChar.GEQ
+  fullName: Vasily.Model.OperatorChar.GEQ
+  nameWithType: OperatorChar.GEQ
+- uid: Vasily.Model.OperatorChar.GTR
+  name: GTR
+  href: api/Vasily.Model.OperatorChar.html#Vasily_Model_OperatorChar_GTR
+  commentId: F:Vasily.Model.OperatorChar.GTR
+  fullName: Vasily.Model.OperatorChar.GTR
+  nameWithType: OperatorChar.GTR
+- uid: Vasily.Model.OperatorChar.LEQ
+  name: LEQ
+  href: api/Vasily.Model.OperatorChar.html#Vasily_Model_OperatorChar_LEQ
+  commentId: F:Vasily.Model.OperatorChar.LEQ
+  fullName: Vasily.Model.OperatorChar.LEQ
+  nameWithType: OperatorChar.LEQ
+- uid: Vasily.Model.OperatorChar.LSS
+  name: LSS
+  href: api/Vasily.Model.OperatorChar.html#Vasily_Model_OperatorChar_LSS
+  commentId: F:Vasily.Model.OperatorChar.LSS
+  fullName: Vasily.Model.OperatorChar.LSS
+  nameWithType: OperatorChar.LSS
+- uid: Vasily.Model.OperatorChar.NEQ
+  name: NEQ
+  href: api/Vasily.Model.OperatorChar.html#Vasily_Model_OperatorChar_NEQ
+  commentId: F:Vasily.Model.OperatorChar.NEQ
+  fullName: Vasily.Model.OperatorChar.NEQ
+  nameWithType: OperatorChar.NEQ
+- uid: Vasily.Model.OperatorChar.OR
+  name: OR
+  href: api/Vasily.Model.OperatorChar.html#Vasily_Model_OperatorChar_OR
+  commentId: F:Vasily.Model.OperatorChar.OR
+  fullName: Vasily.Model.OperatorChar.OR
+  nameWithType: OperatorChar.OR
+- uid: Vasily.ModelStruction
+  name: ModelStruction
+  href: api/Vasily.ModelStruction.html
+  commentId: T:Vasily.ModelStruction
+  fullName: Vasily.ModelStruction
+  nameWithType: ModelStruction
+- uid: Vasily.ModelStruction.#ctor(Type)
+  name: ModelStruction(Type)
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction__ctor_Type_
+  commentId: M:Vasily.ModelStruction.#ctor(Type)
+  fullName: Vasily.ModelStruction.ModelStruction(Type)
+  nameWithType: ModelStruction.ModelStruction(Type)
+- uid: Vasily.ModelStruction.#ctor*
+  name: ModelStruction
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction__ctor_
+  commentId: Overload:Vasily.ModelStruction.#ctor
+  fullName: Vasily.ModelStruction.ModelStruction
+  nameWithType: ModelStruction.ModelStruction
+- uid: Vasily.ModelStruction._type
+  name: _type
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction__type
+  commentId: F:Vasily.ModelStruction._type
+  fullName: Vasily.ModelStruction._type
+  nameWithType: ModelStruction._type
+- uid: Vasily.ModelStruction.DealType
+  name: DealType()
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_DealType
+  commentId: M:Vasily.ModelStruction.DealType
+  fullName: Vasily.ModelStruction.DealType()
+  nameWithType: ModelStruction.DealType()
+- uid: Vasily.ModelStruction.DealType*
+  name: DealType
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_DealType_
+  commentId: Overload:Vasily.ModelStruction.DealType
+  fullName: Vasily.ModelStruction.DealType
+  nameWithType: ModelStruction.DealType
+- uid: Vasily.ModelStruction.FieldInfoCache
+  name: FieldInfoCache
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_FieldInfoCache
+  commentId: F:Vasily.ModelStruction.FieldInfoCache
+  fullName: Vasily.ModelStruction.FieldInfoCache
+  nameWithType: ModelStruction.FieldInfoCache
+- uid: Vasily.ModelStruction.Fields
+  name: Fields
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_Fields
+  commentId: F:Vasily.ModelStruction.Fields
+  fullName: Vasily.ModelStruction.Fields
+  nameWithType: ModelStruction.Fields
+- uid: Vasily.ModelStruction.GetMethodCache
+  name: GetMethodCache
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_GetMethodCache
+  commentId: F:Vasily.ModelStruction.GetMethodCache
+  fullName: Vasily.ModelStruction.GetMethodCache
+  nameWithType: ModelStruction.GetMethodCache
+- uid: Vasily.ModelStruction.GetMethodInfoCache
+  name: GetMethodInfoCache
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_GetMethodInfoCache
+  commentId: F:Vasily.ModelStruction.GetMethodInfoCache
+  fullName: Vasily.ModelStruction.GetMethodInfoCache
+  nameWithType: ModelStruction.GetMethodInfoCache
+- uid: Vasily.ModelStruction.Initialize
+  name: Initialize()
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_Initialize
+  commentId: M:Vasily.ModelStruction.Initialize
+  fullName: Vasily.ModelStruction.Initialize()
+  nameWithType: ModelStruction.Initialize()
+- uid: Vasily.ModelStruction.Initialize*
+  name: Initialize
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_Initialize_
+  commentId: Overload:Vasily.ModelStruction.Initialize
+  fullName: Vasily.ModelStruction.Initialize
+  nameWithType: ModelStruction.Initialize
+- uid: Vasily.ModelStruction.Members
+  name: Members
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_Members
+  commentId: F:Vasily.ModelStruction.Members
+  fullName: Vasily.ModelStruction.Members
+  nameWithType: ModelStruction.Members
+- uid: Vasily.ModelStruction.ModelTypeCache
+  name: ModelTypeCache
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_ModelTypeCache
+  commentId: F:Vasily.ModelStruction.ModelTypeCache
+  fullName: Vasily.ModelStruction.ModelTypeCache
+  nameWithType: ModelStruction.ModelTypeCache
+- uid: Vasily.ModelStruction.Properties
+  name: Properties
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_Properties
+  commentId: F:Vasily.ModelStruction.Properties
+  fullName: Vasily.ModelStruction.Properties
+  nameWithType: ModelStruction.Properties
+- uid: Vasily.ModelStruction.PropertyInfoCache
+  name: PropertyInfoCache
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_PropertyInfoCache
+  commentId: F:Vasily.ModelStruction.PropertyInfoCache
+  fullName: Vasily.ModelStruction.PropertyInfoCache
+  nameWithType: ModelStruction.PropertyInfoCache
+- uid: Vasily.ModelStruction.SetMethodCache
+  name: SetMethodCache
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_SetMethodCache
+  commentId: F:Vasily.ModelStruction.SetMethodCache
+  fullName: Vasily.ModelStruction.SetMethodCache
+  nameWithType: ModelStruction.SetMethodCache
+- uid: Vasily.ModelStruction.SetMethodInfoCache
+  name: SetMethodInfoCache
+  href: api/Vasily.ModelStruction.html#Vasily_ModelStruction_SetMethodInfoCache
+  commentId: F:Vasily.ModelStruction.SetMethodInfoCache
+  fullName: Vasily.ModelStruction.SetMethodInfoCache
+  nameWithType: ModelStruction.SetMethodInfoCache
+- uid: Vasily.NMSString
+  name: NMSString
+  href: api/Vasily.NMSString.html
+  commentId: T:Vasily.NMSString
+  fullName: Vasily.NMSString
+  nameWithType: NMSString
+- uid: Vasily.NMSString.Append(System.String,System.String)
+  name: Append(String, String)
+  href: api/Vasily.NMSString.html#Vasily_NMSString_Append_System_String_System_String_
+  commentId: M:Vasily.NMSString.Append(System.String,System.String)
+  fullName: Vasily.NMSString.Append(System.String, System.String)
+  nameWithType: NMSString.Append(String, String)
+- uid: Vasily.NMSString.Append(System.String[])
+  name: Append(String[])
+  href: api/Vasily.NMSString.html#Vasily_NMSString_Append_System_String___
+  commentId: M:Vasily.NMSString.Append(System.String[])
+  name.vb: Append(String())
+  fullName: Vasily.NMSString.Append(System.String[])
+  fullName.vb: Vasily.NMSString.Append(System.String())
+  nameWithType: NMSString.Append(String[])
+  nameWithType.vb: NMSString.Append(String())
+- uid: Vasily.NMSString.Append*
+  name: Append
+  href: api/Vasily.NMSString.html#Vasily_NMSString_Append_
+  commentId: Overload:Vasily.NMSString.Append
+  fullName: Vasily.NMSString.Append
+  nameWithType: NMSString.Append
+- uid: Vasily.NoRepeateAttribute
+  name: NoRepeateAttribute
+  href: api/Vasily.NoRepeateAttribute.html
+  commentId: T:Vasily.NoRepeateAttribute
+  fullName: Vasily.NoRepeateAttribute
+  nameWithType: NoRepeateAttribute
+- uid: Vasily.OrEquAttribute
+  name: OrEquAttribute
+  href: api/Vasily.OrEquAttribute.html
+  commentId: T:Vasily.OrEquAttribute
+  fullName: Vasily.OrEquAttribute
+  nameWithType: OrEquAttribute
+- uid: Vasily.OrEquAttribute.#ctor(System.String[])
+  name: OrEquAttribute(String[])
+  href: api/Vasily.OrEquAttribute.html#Vasily_OrEquAttribute__ctor_System_String___
+  commentId: M:Vasily.OrEquAttribute.#ctor(System.String[])
+  name.vb: OrEquAttribute(String())
+  fullName: Vasily.OrEquAttribute.OrEquAttribute(System.String[])
+  fullName.vb: Vasily.OrEquAttribute.OrEquAttribute(System.String())
+  nameWithType: OrEquAttribute.OrEquAttribute(String[])
+  nameWithType.vb: OrEquAttribute.OrEquAttribute(String())
+- uid: Vasily.OrEquAttribute.#ctor*
+  name: OrEquAttribute
+  href: api/Vasily.OrEquAttribute.html#Vasily_OrEquAttribute__ctor_
+  commentId: Overload:Vasily.OrEquAttribute.#ctor
+  fullName: Vasily.OrEquAttribute.OrEquAttribute
+  nameWithType: OrEquAttribute.OrEquAttribute
+- uid: Vasily.OrEquAttribute.CChar
+  name: CChar
+  href: api/Vasily.OrEquAttribute.html#Vasily_OrEquAttribute_CChar
+  commentId: P:Vasily.OrEquAttribute.CChar
+  fullName: Vasily.OrEquAttribute.CChar
+  nameWithType: OrEquAttribute.CChar
+- uid: Vasily.OrEquAttribute.CChar*
+  name: CChar
+  href: api/Vasily.OrEquAttribute.html#Vasily_OrEquAttribute_CChar_
+  commentId: Overload:Vasily.OrEquAttribute.CChar
+  fullName: Vasily.OrEquAttribute.CChar
+  nameWithType: OrEquAttribute.CChar
+- uid: Vasily.OrEquAttribute.Keys
+  name: Keys
+  href: api/Vasily.OrEquAttribute.html#Vasily_OrEquAttribute_Keys
+  commentId: P:Vasily.OrEquAttribute.Keys
+  fullName: Vasily.OrEquAttribute.Keys
+  nameWithType: OrEquAttribute.Keys
+- uid: Vasily.OrEquAttribute.Keys*
+  name: Keys
+  href: api/Vasily.OrEquAttribute.html#Vasily_OrEquAttribute_Keys_
+  commentId: Overload:Vasily.OrEquAttribute.Keys
+  fullName: Vasily.OrEquAttribute.Keys
+  nameWithType: OrEquAttribute.Keys
+- uid: Vasily.OrEquAttribute.OChar
+  name: OChar
+  href: api/Vasily.OrEquAttribute.html#Vasily_OrEquAttribute_OChar
+  commentId: P:Vasily.OrEquAttribute.OChar
+  fullName: Vasily.OrEquAttribute.OChar
+  nameWithType: OrEquAttribute.OChar
+- uid: Vasily.OrEquAttribute.OChar*
+  name: OChar
+  href: api/Vasily.OrEquAttribute.html#Vasily_OrEquAttribute_OChar_
+  commentId: Overload:Vasily.OrEquAttribute.OChar
+  fullName: Vasily.OrEquAttribute.OChar
+  nameWithType: OrEquAttribute.OChar
+- uid: Vasily.OrGeqAttribute
+  name: OrGeqAttribute
+  href: api/Vasily.OrGeqAttribute.html
+  commentId: T:Vasily.OrGeqAttribute
+  fullName: Vasily.OrGeqAttribute
+  nameWithType: OrGeqAttribute
+- uid: Vasily.OrGeqAttribute.#ctor(System.String[])
+  name: OrGeqAttribute(String[])
+  href: api/Vasily.OrGeqAttribute.html#Vasily_OrGeqAttribute__ctor_System_String___
+  commentId: M:Vasily.OrGeqAttribute.#ctor(System.String[])
+  name.vb: OrGeqAttribute(String())
+  fullName: Vasily.OrGeqAttribute.OrGeqAttribute(System.String[])
+  fullName.vb: Vasily.OrGeqAttribute.OrGeqAttribute(System.String())
+  nameWithType: OrGeqAttribute.OrGeqAttribute(String[])
+  nameWithType.vb: OrGeqAttribute.OrGeqAttribute(String())
+- uid: Vasily.OrGeqAttribute.#ctor*
+  name: OrGeqAttribute
+  href: api/Vasily.OrGeqAttribute.html#Vasily_OrGeqAttribute__ctor_
+  commentId: Overload:Vasily.OrGeqAttribute.#ctor
+  fullName: Vasily.OrGeqAttribute.OrGeqAttribute
+  nameWithType: OrGeqAttribute.OrGeqAttribute
+- uid: Vasily.OrGeqAttribute.CChar
+  name: CChar
+  href: api/Vasily.OrGeqAttribute.html#Vasily_OrGeqAttribute_CChar
+  commentId: P:Vasily.OrGeqAttribute.CChar
+  fullName: Vasily.OrGeqAttribute.CChar
+  nameWithType: OrGeqAttribute.CChar
+- uid: Vasily.OrGeqAttribute.CChar*
+  name: CChar
+  href: api/Vasily.OrGeqAttribute.html#Vasily_OrGeqAttribute_CChar_
+  commentId: Overload:Vasily.OrGeqAttribute.CChar
+  fullName: Vasily.OrGeqAttribute.CChar
+  nameWithType: OrGeqAttribute.CChar
+- uid: Vasily.OrGeqAttribute.Keys
+  name: Keys
+  href: api/Vasily.OrGeqAttribute.html#Vasily_OrGeqAttribute_Keys
+  commentId: P:Vasily.OrGeqAttribute.Keys
+  fullName: Vasily.OrGeqAttribute.Keys
+  nameWithType: OrGeqAttribute.Keys
+- uid: Vasily.OrGeqAttribute.Keys*
+  name: Keys
+  href: api/Vasily.OrGeqAttribute.html#Vasily_OrGeqAttribute_Keys_
+  commentId: Overload:Vasily.OrGeqAttribute.Keys
+  fullName: Vasily.OrGeqAttribute.Keys
+  nameWithType: OrGeqAttribute.Keys
+- uid: Vasily.OrGeqAttribute.OChar
+  name: OChar
+  href: api/Vasily.OrGeqAttribute.html#Vasily_OrGeqAttribute_OChar
+  commentId: P:Vasily.OrGeqAttribute.OChar
+  fullName: Vasily.OrGeqAttribute.OChar
+  nameWithType: OrGeqAttribute.OChar
+- uid: Vasily.OrGeqAttribute.OChar*
+  name: OChar
+  href: api/Vasily.OrGeqAttribute.html#Vasily_OrGeqAttribute_OChar_
+  commentId: Overload:Vasily.OrGeqAttribute.OChar
+  fullName: Vasily.OrGeqAttribute.OChar
+  nameWithType: OrGeqAttribute.OChar
+- uid: Vasily.OrGtrAttribute
+  name: OrGtrAttribute
+  href: api/Vasily.OrGtrAttribute.html
+  commentId: T:Vasily.OrGtrAttribute
+  fullName: Vasily.OrGtrAttribute
+  nameWithType: OrGtrAttribute
+- uid: Vasily.OrGtrAttribute.#ctor(System.String[])
+  name: OrGtrAttribute(String[])
+  href: api/Vasily.OrGtrAttribute.html#Vasily_OrGtrAttribute__ctor_System_String___
+  commentId: M:Vasily.OrGtrAttribute.#ctor(System.String[])
+  name.vb: OrGtrAttribute(String())
+  fullName: Vasily.OrGtrAttribute.OrGtrAttribute(System.String[])
+  fullName.vb: Vasily.OrGtrAttribute.OrGtrAttribute(System.String())
+  nameWithType: OrGtrAttribute.OrGtrAttribute(String[])
+  nameWithType.vb: OrGtrAttribute.OrGtrAttribute(String())
+- uid: Vasily.OrGtrAttribute.#ctor*
+  name: OrGtrAttribute
+  href: api/Vasily.OrGtrAttribute.html#Vasily_OrGtrAttribute__ctor_
+  commentId: Overload:Vasily.OrGtrAttribute.#ctor
+  fullName: Vasily.OrGtrAttribute.OrGtrAttribute
+  nameWithType: OrGtrAttribute.OrGtrAttribute
+- uid: Vasily.OrGtrAttribute.CChar
+  name: CChar
+  href: api/Vasily.OrGtrAttribute.html#Vasily_OrGtrAttribute_CChar
+  commentId: P:Vasily.OrGtrAttribute.CChar
+  fullName: Vasily.OrGtrAttribute.CChar
+  nameWithType: OrGtrAttribute.CChar
+- uid: Vasily.OrGtrAttribute.CChar*
+  name: CChar
+  href: api/Vasily.OrGtrAttribute.html#Vasily_OrGtrAttribute_CChar_
+  commentId: Overload:Vasily.OrGtrAttribute.CChar
+  fullName: Vasily.OrGtrAttribute.CChar
+  nameWithType: OrGtrAttribute.CChar
+- uid: Vasily.OrGtrAttribute.Keys
+  name: Keys
+  href: api/Vasily.OrGtrAttribute.html#Vasily_OrGtrAttribute_Keys
+  commentId: P:Vasily.OrGtrAttribute.Keys
+  fullName: Vasily.OrGtrAttribute.Keys
+  nameWithType: OrGtrAttribute.Keys
+- uid: Vasily.OrGtrAttribute.Keys*
+  name: Keys
+  href: api/Vasily.OrGtrAttribute.html#Vasily_OrGtrAttribute_Keys_
+  commentId: Overload:Vasily.OrGtrAttribute.Keys
+  fullName: Vasily.OrGtrAttribute.Keys
+  nameWithType: OrGtrAttribute.Keys
+- uid: Vasily.OrGtrAttribute.OChar
+  name: OChar
+  href: api/Vasily.OrGtrAttribute.html#Vasily_OrGtrAttribute_OChar
+  commentId: P:Vasily.OrGtrAttribute.OChar
+  fullName: Vasily.OrGtrAttribute.OChar
+  nameWithType: OrGtrAttribute.OChar
+- uid: Vasily.OrGtrAttribute.OChar*
+  name: OChar
+  href: api/Vasily.OrGtrAttribute.html#Vasily_OrGtrAttribute_OChar_
+  commentId: Overload:Vasily.OrGtrAttribute.OChar
+  fullName: Vasily.OrGtrAttribute.OChar
+  nameWithType: OrGtrAttribute.OChar
+- uid: Vasily.OrLeqAttribute
+  name: OrLeqAttribute
+  href: api/Vasily.OrLeqAttribute.html
+  commentId: T:Vasily.OrLeqAttribute
+  fullName: Vasily.OrLeqAttribute
+  nameWithType: OrLeqAttribute
+- uid: Vasily.OrLeqAttribute.#ctor(System.String[])
+  name: OrLeqAttribute(String[])
+  href: api/Vasily.OrLeqAttribute.html#Vasily_OrLeqAttribute__ctor_System_String___
+  commentId: M:Vasily.OrLeqAttribute.#ctor(System.String[])
+  name.vb: OrLeqAttribute(String())
+  fullName: Vasily.OrLeqAttribute.OrLeqAttribute(System.String[])
+  fullName.vb: Vasily.OrLeqAttribute.OrLeqAttribute(System.String())
+  nameWithType: OrLeqAttribute.OrLeqAttribute(String[])
+  nameWithType.vb: OrLeqAttribute.OrLeqAttribute(String())
+- uid: Vasily.OrLeqAttribute.#ctor*
+  name: OrLeqAttribute
+  href: api/Vasily.OrLeqAttribute.html#Vasily_OrLeqAttribute__ctor_
+  commentId: Overload:Vasily.OrLeqAttribute.#ctor
+  fullName: Vasily.OrLeqAttribute.OrLeqAttribute
+  nameWithType: OrLeqAttribute.OrLeqAttribute
+- uid: Vasily.OrLeqAttribute.CChar
+  name: CChar
+  href: api/Vasily.OrLeqAttribute.html#Vasily_OrLeqAttribute_CChar
+  commentId: P:Vasily.OrLeqAttribute.CChar
+  fullName: Vasily.OrLeqAttribute.CChar
+  nameWithType: OrLeqAttribute.CChar
+- uid: Vasily.OrLeqAttribute.CChar*
+  name: CChar
+  href: api/Vasily.OrLeqAttribute.html#Vasily_OrLeqAttribute_CChar_
+  commentId: Overload:Vasily.OrLeqAttribute.CChar
+  fullName: Vasily.OrLeqAttribute.CChar
+  nameWithType: OrLeqAttribute.CChar
+- uid: Vasily.OrLeqAttribute.Keys
+  name: Keys
+  href: api/Vasily.OrLeqAttribute.html#Vasily_OrLeqAttribute_Keys
+  commentId: P:Vasily.OrLeqAttribute.Keys
+  fullName: Vasily.OrLeqAttribute.Keys
+  nameWithType: OrLeqAttribute.Keys
+- uid: Vasily.OrLeqAttribute.Keys*
+  name: Keys
+  href: api/Vasily.OrLeqAttribute.html#Vasily_OrLeqAttribute_Keys_
+  commentId: Overload:Vasily.OrLeqAttribute.Keys
+  fullName: Vasily.OrLeqAttribute.Keys
+  nameWithType: OrLeqAttribute.Keys
+- uid: Vasily.OrLeqAttribute.OChar
+  name: OChar
+  href: api/Vasily.OrLeqAttribute.html#Vasily_OrLeqAttribute_OChar
+  commentId: P:Vasily.OrLeqAttribute.OChar
+  fullName: Vasily.OrLeqAttribute.OChar
+  nameWithType: OrLeqAttribute.OChar
+- uid: Vasily.OrLeqAttribute.OChar*
+  name: OChar
+  href: api/Vasily.OrLeqAttribute.html#Vasily_OrLeqAttribute_OChar_
+  commentId: Overload:Vasily.OrLeqAttribute.OChar
+  fullName: Vasily.OrLeqAttribute.OChar
+  nameWithType: OrLeqAttribute.OChar
+- uid: Vasily.OrLssAttribute
+  name: OrLssAttribute
+  href: api/Vasily.OrLssAttribute.html
+  commentId: T:Vasily.OrLssAttribute
+  fullName: Vasily.OrLssAttribute
+  nameWithType: OrLssAttribute
+- uid: Vasily.OrLssAttribute.#ctor(System.String[])
+  name: OrLssAttribute(String[])
+  href: api/Vasily.OrLssAttribute.html#Vasily_OrLssAttribute__ctor_System_String___
+  commentId: M:Vasily.OrLssAttribute.#ctor(System.String[])
+  name.vb: OrLssAttribute(String())
+  fullName: Vasily.OrLssAttribute.OrLssAttribute(System.String[])
+  fullName.vb: Vasily.OrLssAttribute.OrLssAttribute(System.String())
+  nameWithType: OrLssAttribute.OrLssAttribute(String[])
+  nameWithType.vb: OrLssAttribute.OrLssAttribute(String())
+- uid: Vasily.OrLssAttribute.#ctor*
+  name: OrLssAttribute
+  href: api/Vasily.OrLssAttribute.html#Vasily_OrLssAttribute__ctor_
+  commentId: Overload:Vasily.OrLssAttribute.#ctor
+  fullName: Vasily.OrLssAttribute.OrLssAttribute
+  nameWithType: OrLssAttribute.OrLssAttribute
+- uid: Vasily.OrLssAttribute.CChar
+  name: CChar
+  href: api/Vasily.OrLssAttribute.html#Vasily_OrLssAttribute_CChar
+  commentId: P:Vasily.OrLssAttribute.CChar
+  fullName: Vasily.OrLssAttribute.CChar
+  nameWithType: OrLssAttribute.CChar
+- uid: Vasily.OrLssAttribute.CChar*
+  name: CChar
+  href: api/Vasily.OrLssAttribute.html#Vasily_OrLssAttribute_CChar_
+  commentId: Overload:Vasily.OrLssAttribute.CChar
+  fullName: Vasily.OrLssAttribute.CChar
+  nameWithType: OrLssAttribute.CChar
+- uid: Vasily.OrLssAttribute.Keys
+  name: Keys
+  href: api/Vasily.OrLssAttribute.html#Vasily_OrLssAttribute_Keys
+  commentId: P:Vasily.OrLssAttribute.Keys
+  fullName: Vasily.OrLssAttribute.Keys
+  nameWithType: OrLssAttribute.Keys
+- uid: Vasily.OrLssAttribute.Keys*
+  name: Keys
+  href: api/Vasily.OrLssAttribute.html#Vasily_OrLssAttribute_Keys_
+  commentId: Overload:Vasily.OrLssAttribute.Keys
+  fullName: Vasily.OrLssAttribute.Keys
+  nameWithType: OrLssAttribute.Keys
+- uid: Vasily.OrLssAttribute.OChar
+  name: OChar
+  href: api/Vasily.OrLssAttribute.html#Vasily_OrLssAttribute_OChar
+  commentId: P:Vasily.OrLssAttribute.OChar
+  fullName: Vasily.OrLssAttribute.OChar
+  nameWithType: OrLssAttribute.OChar
+- uid: Vasily.OrLssAttribute.OChar*
+  name: OChar
+  href: api/Vasily.OrLssAttribute.html#Vasily_OrLssAttribute_OChar_
+  commentId: Overload:Vasily.OrLssAttribute.OChar
+  fullName: Vasily.OrLssAttribute.OChar
+  nameWithType: OrLssAttribute.OChar
+- uid: Vasily.OrNeqAttribute
+  name: OrNeqAttribute
+  href: api/Vasily.OrNeqAttribute.html
+  commentId: T:Vasily.OrNeqAttribute
+  fullName: Vasily.OrNeqAttribute
+  nameWithType: OrNeqAttribute
+- uid: Vasily.OrNeqAttribute.#ctor(System.String[])
+  name: OrNeqAttribute(String[])
+  href: api/Vasily.OrNeqAttribute.html#Vasily_OrNeqAttribute__ctor_System_String___
+  commentId: M:Vasily.OrNeqAttribute.#ctor(System.String[])
+  name.vb: OrNeqAttribute(String())
+  fullName: Vasily.OrNeqAttribute.OrNeqAttribute(System.String[])
+  fullName.vb: Vasily.OrNeqAttribute.OrNeqAttribute(System.String())
+  nameWithType: OrNeqAttribute.OrNeqAttribute(String[])
+  nameWithType.vb: OrNeqAttribute.OrNeqAttribute(String())
+- uid: Vasily.OrNeqAttribute.#ctor*
+  name: OrNeqAttribute
+  href: api/Vasily.OrNeqAttribute.html#Vasily_OrNeqAttribute__ctor_
+  commentId: Overload:Vasily.OrNeqAttribute.#ctor
+  fullName: Vasily.OrNeqAttribute.OrNeqAttribute
+  nameWithType: OrNeqAttribute.OrNeqAttribute
+- uid: Vasily.OrNeqAttribute.CChar
+  name: CChar
+  href: api/Vasily.OrNeqAttribute.html#Vasily_OrNeqAttribute_CChar
+  commentId: P:Vasily.OrNeqAttribute.CChar
+  fullName: Vasily.OrNeqAttribute.CChar
+  nameWithType: OrNeqAttribute.CChar
+- uid: Vasily.OrNeqAttribute.CChar*
+  name: CChar
+  href: api/Vasily.OrNeqAttribute.html#Vasily_OrNeqAttribute_CChar_
+  commentId: Overload:Vasily.OrNeqAttribute.CChar
+  fullName: Vasily.OrNeqAttribute.CChar
+  nameWithType: OrNeqAttribute.CChar
+- uid: Vasily.OrNeqAttribute.Keys
+  name: Keys
+  href: api/Vasily.OrNeqAttribute.html#Vasily_OrNeqAttribute_Keys
+  commentId: P:Vasily.OrNeqAttribute.Keys
+  fullName: Vasily.OrNeqAttribute.Keys
+  nameWithType: OrNeqAttribute.Keys
+- uid: Vasily.OrNeqAttribute.Keys*
+  name: Keys
+  href: api/Vasily.OrNeqAttribute.html#Vasily_OrNeqAttribute_Keys_
+  commentId: Overload:Vasily.OrNeqAttribute.Keys
+  fullName: Vasily.OrNeqAttribute.Keys
+  nameWithType: OrNeqAttribute.Keys
+- uid: Vasily.OrNeqAttribute.OChar
+  name: OChar
+  href: api/Vasily.OrNeqAttribute.html#Vasily_OrNeqAttribute_OChar
+  commentId: P:Vasily.OrNeqAttribute.OChar
+  fullName: Vasily.OrNeqAttribute.OChar
+  nameWithType: OrNeqAttribute.OChar
+- uid: Vasily.OrNeqAttribute.OChar*
+  name: OChar
+  href: api/Vasily.OrNeqAttribute.html#Vasily_OrNeqAttribute_OChar_
+  commentId: Overload:Vasily.OrNeqAttribute.OChar
+  fullName: Vasily.OrNeqAttribute.OChar
+  nameWithType: OrNeqAttribute.OChar
+- uid: Vasily.OuterMapAttribute
+  name: OuterMapAttribute
+  href: api/Vasily.OuterMapAttribute.html
+  commentId: T:Vasily.OuterMapAttribute
+  fullName: Vasily.OuterMapAttribute
+  nameWithType: OuterMapAttribute
+- uid: Vasily.OuterMapAttribute.#ctor(System.String[])
+  name: OuterMapAttribute(String[])
+  href: api/Vasily.OuterMapAttribute.html#Vasily_OuterMapAttribute__ctor_System_String___
+  commentId: M:Vasily.OuterMapAttribute.#ctor(System.String[])
+  name.vb: OuterMapAttribute(String())
+  fullName: Vasily.OuterMapAttribute.OuterMapAttribute(System.String[])
+  fullName.vb: Vasily.OuterMapAttribute.OuterMapAttribute(System.String())
+  nameWithType: OuterMapAttribute.OuterMapAttribute(String[])
+  nameWithType.vb: OuterMapAttribute.OuterMapAttribute(String())
+- uid: Vasily.OuterMapAttribute.#ctor*
+  name: OuterMapAttribute
+  href: api/Vasily.OuterMapAttribute.html#Vasily_OuterMapAttribute__ctor_
+  commentId: Overload:Vasily.OuterMapAttribute.#ctor
+  fullName: Vasily.OuterMapAttribute.OuterMapAttribute
+  nameWithType: OuterMapAttribute.OuterMapAttribute
+- uid: Vasily.OuterMapAttribute.OuterKeys
+  name: OuterKeys
+  href: api/Vasily.OuterMapAttribute.html#Vasily_OuterMapAttribute_OuterKeys
+  commentId: F:Vasily.OuterMapAttribute.OuterKeys
+  fullName: Vasily.OuterMapAttribute.OuterKeys
+  nameWithType: OuterMapAttribute.OuterKeys
+- uid: Vasily.PrimaryKeyAttribute
+  name: PrimaryKeyAttribute
+  href: api/Vasily.PrimaryKeyAttribute.html
+  commentId: T:Vasily.PrimaryKeyAttribute
+  fullName: Vasily.PrimaryKeyAttribute
+  nameWithType: PrimaryKeyAttribute
+- uid: Vasily.PrimaryKeyAttribute.#ctor
+  name: PrimaryKeyAttribute()
+  href: api/Vasily.PrimaryKeyAttribute.html#Vasily_PrimaryKeyAttribute__ctor
+  commentId: M:Vasily.PrimaryKeyAttribute.#ctor
+  fullName: Vasily.PrimaryKeyAttribute.PrimaryKeyAttribute()
+  nameWithType: PrimaryKeyAttribute.PrimaryKeyAttribute()
+- uid: Vasily.PrimaryKeyAttribute.#ctor(System.Boolean)
+  name: PrimaryKeyAttribute(Boolean)
+  href: api/Vasily.PrimaryKeyAttribute.html#Vasily_PrimaryKeyAttribute__ctor_System_Boolean_
+  commentId: M:Vasily.PrimaryKeyAttribute.#ctor(System.Boolean)
+  fullName: Vasily.PrimaryKeyAttribute.PrimaryKeyAttribute(System.Boolean)
+  nameWithType: PrimaryKeyAttribute.PrimaryKeyAttribute(Boolean)
+- uid: Vasily.PrimaryKeyAttribute.#ctor*
+  name: PrimaryKeyAttribute
+  href: api/Vasily.PrimaryKeyAttribute.html#Vasily_PrimaryKeyAttribute__ctor_
+  commentId: Overload:Vasily.PrimaryKeyAttribute.#ctor
+  fullName: Vasily.PrimaryKeyAttribute.PrimaryKeyAttribute
+  nameWithType: PrimaryKeyAttribute.PrimaryKeyAttribute
+- uid: Vasily.PrimaryKeyAttribute.IsManually
+  name: IsManually
+  href: api/Vasily.PrimaryKeyAttribute.html#Vasily_PrimaryKeyAttribute_IsManually
+  commentId: P:Vasily.PrimaryKeyAttribute.IsManually
+  fullName: Vasily.PrimaryKeyAttribute.IsManually
+  nameWithType: PrimaryKeyAttribute.IsManually
+- uid: Vasily.PrimaryKeyAttribute.IsManually*
+  name: IsManually
+  href: api/Vasily.PrimaryKeyAttribute.html#Vasily_PrimaryKeyAttribute_IsManually_
+  commentId: Overload:Vasily.PrimaryKeyAttribute.IsManually
+  fullName: Vasily.PrimaryKeyAttribute.IsManually
+  nameWithType: PrimaryKeyAttribute.IsManually
+- uid: Vasily.RepeateAttribute
+  name: RepeateAttribute
+  href: api/Vasily.RepeateAttribute.html
+  commentId: T:Vasily.RepeateAttribute
+  fullName: Vasily.RepeateAttribute
+  nameWithType: RepeateAttribute
+- uid: Vasily.RepeateAttribute.#ctor(System.String[])
+  name: RepeateAttribute(String[])
+  href: api/Vasily.RepeateAttribute.html#Vasily_RepeateAttribute__ctor_System_String___
+  commentId: M:Vasily.RepeateAttribute.#ctor(System.String[])
+  name.vb: RepeateAttribute(String())
+  fullName: Vasily.RepeateAttribute.RepeateAttribute(System.String[])
+  fullName.vb: Vasily.RepeateAttribute.RepeateAttribute(System.String())
+  nameWithType: RepeateAttribute.RepeateAttribute(String[])
+  nameWithType.vb: RepeateAttribute.RepeateAttribute(String())
+- uid: Vasily.RepeateAttribute.#ctor*
+  name: RepeateAttribute
+  href: api/Vasily.RepeateAttribute.html#Vasily_RepeateAttribute__ctor_
+  commentId: Overload:Vasily.RepeateAttribute.#ctor
+  fullName: Vasily.RepeateAttribute.RepeateAttribute
+  nameWithType: RepeateAttribute.RepeateAttribute
+- uid: Vasily.RepeateAttribute.Keys
+  name: Keys
+  href: api/Vasily.RepeateAttribute.html#Vasily_RepeateAttribute_Keys
+  commentId: P:Vasily.RepeateAttribute.Keys
+  fullName: Vasily.RepeateAttribute.Keys
+  nameWithType: RepeateAttribute.Keys
+- uid: Vasily.RepeateAttribute.Keys*
+  name: Keys
+  href: api/Vasily.RepeateAttribute.html#Vasily_RepeateAttribute_Keys_
+  commentId: Overload:Vasily.RepeateAttribute.Keys
+  fullName: Vasily.RepeateAttribute.Keys
+  nameWithType: RepeateAttribute.Keys
+- uid: Vasily.SelectAttribute
+  name: SelectAttribute
+  href: api/Vasily.SelectAttribute.html
+  commentId: T:Vasily.SelectAttribute
+  fullName: Vasily.SelectAttribute
+  nameWithType: SelectAttribute
+- uid: Vasily.SelectAttribute.#ctor(System.String[])
+  name: SelectAttribute(String[])
+  href: api/Vasily.SelectAttribute.html#Vasily_SelectAttribute__ctor_System_String___
+  commentId: M:Vasily.SelectAttribute.#ctor(System.String[])
+  name.vb: SelectAttribute(String())
+  fullName: Vasily.SelectAttribute.SelectAttribute(System.String[])
+  fullName.vb: Vasily.SelectAttribute.SelectAttribute(System.String())
+  nameWithType: SelectAttribute.SelectAttribute(String[])
+  nameWithType.vb: SelectAttribute.SelectAttribute(String())
+- uid: Vasily.SelectAttribute.#ctor*
+  name: SelectAttribute
+  href: api/Vasily.SelectAttribute.html#Vasily_SelectAttribute__ctor_
+  commentId: Overload:Vasily.SelectAttribute.#ctor
+  fullName: Vasily.SelectAttribute.SelectAttribute
+  nameWithType: SelectAttribute.SelectAttribute
+- uid: Vasily.SelectAttribute.Keys
+  name: Keys
+  href: api/Vasily.SelectAttribute.html#Vasily_SelectAttribute_Keys
+  commentId: P:Vasily.SelectAttribute.Keys
+  fullName: Vasily.SelectAttribute.Keys
+  nameWithType: SelectAttribute.Keys
+- uid: Vasily.SelectAttribute.Keys*
+  name: Keys
+  href: api/Vasily.SelectAttribute.html#Vasily_SelectAttribute_Keys_
+  commentId: Overload:Vasily.SelectAttribute.Keys
+  fullName: Vasily.SelectAttribute.Keys
+  nameWithType: SelectAttribute.Keys
+- uid: Vasily.Sql`1
+  name: Sql<T>
+  href: api/Vasily.Sql-1.html
+  commentId: T:Vasily.Sql`1
+  name.vb: Sql(Of T)
+  fullName: Vasily.Sql<T>
+  fullName.vb: Vasily.Sql(Of T)
+  nameWithType: Sql<T>
+  nameWithType.vb: Sql(Of T)
+- uid: Vasily.Sql`1.AL(System.String)
+  name: AL(String)
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_AL_System_String_
+  commentId: M:Vasily.Sql`1.AL(System.String)
+  fullName: Vasily.Sql<T>.AL(System.String)
+  fullName.vb: Vasily.Sql(Of T).AL(System.String)
+  nameWithType: Sql<T>.AL(String)
+  nameWithType.vb: Sql(Of T).AL(String)
+- uid: Vasily.Sql`1.AL*
+  name: AL
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_AL_
+  commentId: Overload:Vasily.Sql`1.AL
+  fullName: Vasily.Sql<T>.AL
+  fullName.vb: Vasily.Sql(Of T).AL
+  nameWithType: Sql<T>.AL
+  nameWithType.vb: Sql(Of T).AL
+- uid: Vasily.Sql`1.ALMap
+  name: ALMap
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_ALMap
+  commentId: F:Vasily.Sql`1.ALMap
+  fullName: Vasily.Sql<T>.ALMap
+  fullName.vb: Vasily.Sql(Of T).ALMap
+  nameWithType: Sql<T>.ALMap
+  nameWithType.vb: Sql(Of T).ALMap
+- uid: Vasily.Sql`1.CheckRepeate
+  name: CheckRepeate
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_CheckRepeate
+  commentId: F:Vasily.Sql`1.CheckRepeate
+  fullName: Vasily.Sql<T>.CheckRepeate
+  fullName.vb: Vasily.Sql(Of T).CheckRepeate
+  nameWithType: Sql<T>.CheckRepeate
+  nameWithType.vb: Sql(Of T).CheckRepeate
+- uid: Vasily.Sql`1.ColumnToRealMap
+  name: ColumnToRealMap
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_ColumnToRealMap
+  commentId: F:Vasily.Sql`1.ColumnToRealMap
+  fullName: Vasily.Sql<T>.ColumnToRealMap
+  fullName.vb: Vasily.Sql(Of T).ColumnToRealMap
+  nameWithType: Sql<T>.ColumnToRealMap
+  nameWithType.vb: Sql(Of T).ColumnToRealMap
+- uid: Vasily.Sql`1.ConditionDelete
+  name: ConditionDelete
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_ConditionDelete
+  commentId: F:Vasily.Sql`1.ConditionDelete
+  fullName: Vasily.Sql<T>.ConditionDelete
+  fullName.vb: Vasily.Sql(Of T).ConditionDelete
+  nameWithType: Sql<T>.ConditionDelete
+  nameWithType.vb: Sql(Of T).ConditionDelete
+- uid: Vasily.Sql`1.ConditionSelect
+  name: ConditionSelect
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_ConditionSelect
+  commentId: F:Vasily.Sql`1.ConditionSelect
+  fullName: Vasily.Sql<T>.ConditionSelect
+  fullName.vb: Vasily.Sql(Of T).ConditionSelect
+  nameWithType: Sql<T>.ConditionSelect
+  nameWithType.vb: Sql(Of T).ConditionSelect
+- uid: Vasily.Sql`1.ConditionUpdate
+  name: ConditionUpdate
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_ConditionUpdate
+  commentId: F:Vasily.Sql`1.ConditionUpdate
+  fullName: Vasily.Sql<T>.ConditionUpdate
+  fullName.vb: Vasily.Sql(Of T).ConditionUpdate
+  nameWithType: Sql<T>.ConditionUpdate
+  nameWithType.vb: Sql(Of T).ConditionUpdate
+- uid: Vasily.Sql`1.Delete
+  name: Delete
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_Delete
+  commentId: F:Vasily.Sql`1.Delete
+  fullName: Vasily.Sql<T>.Delete
+  fullName.vb: Vasily.Sql(Of T).Delete
+  nameWithType: Sql<T>.Delete
+  nameWithType.vb: Sql(Of T).Delete
+- uid: Vasily.Sql`1.GetColumnName(System.String)
+  name: GetColumnName(String)
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_GetColumnName_System_String_
+  commentId: M:Vasily.Sql`1.GetColumnName(System.String)
+  fullName: Vasily.Sql<T>.GetColumnName(System.String)
+  fullName.vb: Vasily.Sql(Of T).GetColumnName(System.String)
+  nameWithType: Sql<T>.GetColumnName(String)
+  nameWithType.vb: Sql(Of T).GetColumnName(String)
+- uid: Vasily.Sql`1.GetColumnName*
+  name: GetColumnName
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_GetColumnName_
+  commentId: Overload:Vasily.Sql`1.GetColumnName
+  fullName: Vasily.Sql<T>.GetColumnName
+  fullName.vb: Vasily.Sql(Of T).GetColumnName
+  nameWithType: Sql<T>.GetColumnName
+  nameWithType.vb: Sql(Of T).GetColumnName
+- uid: Vasily.Sql`1.GetPrimaryKey
+  name: GetPrimaryKey
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_GetPrimaryKey
+  commentId: F:Vasily.Sql`1.GetPrimaryKey
+  fullName: Vasily.Sql<T>.GetPrimaryKey
+  fullName.vb: Vasily.Sql(Of T).GetPrimaryKey
+  nameWithType: Sql<T>.GetPrimaryKey
+  nameWithType.vb: Sql(Of T).GetPrimaryKey
+- uid: Vasily.Sql`1.GetRealName(System.String)
+  name: GetRealName(String)
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_GetRealName_System_String_
+  commentId: M:Vasily.Sql`1.GetRealName(System.String)
+  fullName: Vasily.Sql<T>.GetRealName(System.String)
+  fullName.vb: Vasily.Sql(Of T).GetRealName(System.String)
+  nameWithType: Sql<T>.GetRealName(String)
+  nameWithType.vb: Sql(Of T).GetRealName(String)
+- uid: Vasily.Sql`1.GetRealName*
+  name: GetRealName
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_GetRealName_
+  commentId: Overload:Vasily.Sql`1.GetRealName
+  fullName: Vasily.Sql<T>.GetRealName
+  fullName.vb: Vasily.Sql(Of T).GetRealName
+  nameWithType: Sql<T>.GetRealName
+  nameWithType.vb: Sql(Of T).GetRealName
+- uid: Vasily.Sql`1.Insert
+  name: Insert
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_Insert
+  commentId: F:Vasily.Sql`1.Insert
+  fullName: Vasily.Sql<T>.Insert
+  fullName.vb: Vasily.Sql(Of T).Insert
+  nameWithType: Sql<T>.Insert
+  nameWithType.vb: Sql(Of T).Insert
+- uid: Vasily.Sql`1.IsMaunally
+  name: IsMaunally
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_IsMaunally
+  commentId: F:Vasily.Sql`1.IsMaunally
+  fullName: Vasily.Sql<T>.IsMaunally
+  fullName.vb: Vasily.Sql(Of T).IsMaunally
+  nameWithType: Sql<T>.IsMaunally
+  nameWithType.vb: Sql(Of T).IsMaunally
+- uid: Vasily.Sql`1.PrimaryKey
+  name: PrimaryKey
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_PrimaryKey
+  commentId: F:Vasily.Sql`1.PrimaryKey
+  fullName: Vasily.Sql<T>.PrimaryKey
+  fullName.vb: Vasily.Sql(Of T).PrimaryKey
+  nameWithType: Sql<T>.PrimaryKey
+  nameWithType.vb: Sql(Of T).PrimaryKey
+- uid: Vasily.Sql`1.RealToColumnMap
+  name: RealToColumnMap
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_RealToColumnMap
+  commentId: F:Vasily.Sql`1.RealToColumnMap
+  fullName: Vasily.Sql<T>.RealToColumnMap
+  fullName.vb: Vasily.Sql(Of T).RealToColumnMap
+  nameWithType: Sql<T>.RealToColumnMap
+  nameWithType.vb: Sql(Of T).RealToColumnMap
+- uid: Vasily.Sql`1.Select
+  name: Select
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_Select
+  commentId: F:Vasily.Sql`1.Select
+  fullName: Vasily.Sql<T>.Select
+  fullName.vb: Vasily.Sql(Of T).Select
+  nameWithType: Sql<T>.Select
+  nameWithType.vb: Sql(Of T).Select
+- uid: Vasily.Sql`1.SelectAll
+  name: SelectAll
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_SelectAll
+  commentId: F:Vasily.Sql`1.SelectAll
+  fullName: Vasily.Sql<T>.SelectAll
+  fullName.vb: Vasily.Sql(Of T).SelectAll
+  nameWithType: Sql<T>.SelectAll
+  nameWithType.vb: Sql(Of T).SelectAll
+- uid: Vasily.Sql`1.Struction
+  name: Struction
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_Struction
+  commentId: F:Vasily.Sql`1.Struction
+  fullName: Vasily.Sql<T>.Struction
+  fullName.vb: Vasily.Sql(Of T).Struction
+  nameWithType: Sql<T>.Struction
+  nameWithType.vb: Sql(Of T).Struction
+- uid: Vasily.Sql`1.Table
+  name: Table
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_Table
+  commentId: F:Vasily.Sql`1.Table
+  fullName: Vasily.Sql<T>.Table
+  fullName.vb: Vasily.Sql(Of T).Table
+  nameWithType: Sql<T>.Table
+  nameWithType.vb: Sql(Of T).Table
+- uid: Vasily.Sql`1.Update
+  name: Update
+  href: api/Vasily.Sql-1.html#Vasily_Sql_1_Update
+  commentId: F:Vasily.Sql`1.Update
+  fullName: Vasily.Sql<T>.Update
+  fullName.vb: Vasily.Sql(Of T).Update
+  nameWithType: Sql<T>.Update
+  nameWithType.vb: Sql(Of T).Update
+- uid: Vasily.SqlModel
+  name: SqlModel
+  href: api/Vasily.SqlModel.html
+  commentId: T:Vasily.SqlModel
+  fullName: Vasily.SqlModel
+  nameWithType: SqlModel
+- uid: Vasily.SqlModel.#ctor(Type)
+  name: SqlModel(Type)
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel__ctor_Type_
+  commentId: M:Vasily.SqlModel.#ctor(Type)
+  fullName: Vasily.SqlModel.SqlModel(Type)
+  nameWithType: SqlModel.SqlModel(Type)
+- uid: Vasily.SqlModel.#ctor*
+  name: SqlModel
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel__ctor_
+  commentId: Overload:Vasily.SqlModel.#ctor
+  fullName: Vasily.SqlModel.SqlModel
+  nameWithType: SqlModel.SqlModel
+- uid: Vasily.SqlModel.ALMap
+  name: ALMap
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_ALMap
+  commentId: F:Vasily.SqlModel.ALMap
+  fullName: Vasily.SqlModel.ALMap
+  nameWithType: SqlModel.ALMap
+- uid: Vasily.SqlModel.CheckRepeate
+  name: CheckRepeate
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_CheckRepeate
+  commentId: F:Vasily.SqlModel.CheckRepeate
+  fullName: Vasily.SqlModel.CheckRepeate
+  nameWithType: SqlModel.CheckRepeate
+- uid: Vasily.SqlModel.ColumnToRealMap
+  name: ColumnToRealMap
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_ColumnToRealMap
+  commentId: F:Vasily.SqlModel.ColumnToRealMap
+  fullName: Vasily.SqlModel.ColumnToRealMap
+  nameWithType: SqlModel.ColumnToRealMap
+- uid: Vasily.SqlModel.ConditionDelete
+  name: ConditionDelete
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_ConditionDelete
+  commentId: F:Vasily.SqlModel.ConditionDelete
+  fullName: Vasily.SqlModel.ConditionDelete
+  nameWithType: SqlModel.ConditionDelete
+- uid: Vasily.SqlModel.ConditionSelect
+  name: ConditionSelect
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_ConditionSelect
+  commentId: F:Vasily.SqlModel.ConditionSelect
+  fullName: Vasily.SqlModel.ConditionSelect
+  nameWithType: SqlModel.ConditionSelect
+- uid: Vasily.SqlModel.ConditionUpdate
+  name: ConditionUpdate
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_ConditionUpdate
+  commentId: F:Vasily.SqlModel.ConditionUpdate
+  fullName: Vasily.SqlModel.ConditionUpdate
+  nameWithType: SqlModel.ConditionUpdate
+- uid: Vasily.SqlModel.Delete
+  name: Delete
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_Delete
+  commentId: F:Vasily.SqlModel.Delete
+  fullName: Vasily.SqlModel.Delete
+  nameWithType: SqlModel.Delete
+- uid: Vasily.SqlModel.GetColumnName(System.String)
+  name: GetColumnName(String)
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_GetColumnName_System_String_
+  commentId: M:Vasily.SqlModel.GetColumnName(System.String)
+  fullName: Vasily.SqlModel.GetColumnName(System.String)
+  nameWithType: SqlModel.GetColumnName(String)
+- uid: Vasily.SqlModel.GetColumnName*
+  name: GetColumnName
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_GetColumnName_
+  commentId: Overload:Vasily.SqlModel.GetColumnName
+  fullName: Vasily.SqlModel.GetColumnName
+  nameWithType: SqlModel.GetColumnName
+- uid: Vasily.SqlModel.GetPrimaryKey
+  name: GetPrimaryKey
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_GetPrimaryKey
+  commentId: F:Vasily.SqlModel.GetPrimaryKey
+  fullName: Vasily.SqlModel.GetPrimaryKey
+  nameWithType: SqlModel.GetPrimaryKey
+- uid: Vasily.SqlModel.GetRealName(System.String)
+  name: GetRealName(String)
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_GetRealName_System_String_
+  commentId: M:Vasily.SqlModel.GetRealName(System.String)
+  fullName: Vasily.SqlModel.GetRealName(System.String)
+  nameWithType: SqlModel.GetRealName(String)
+- uid: Vasily.SqlModel.GetRealName*
+  name: GetRealName
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_GetRealName_
+  commentId: Overload:Vasily.SqlModel.GetRealName
+  fullName: Vasily.SqlModel.GetRealName
+  nameWithType: SqlModel.GetRealName
+- uid: Vasily.SqlModel.Insert
+  name: Insert
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_Insert
+  commentId: F:Vasily.SqlModel.Insert
+  fullName: Vasily.SqlModel.Insert
+  nameWithType: SqlModel.Insert
+- uid: Vasily.SqlModel.IsMaunally
+  name: IsMaunally
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_IsMaunally
+  commentId: F:Vasily.SqlModel.IsMaunally
+  fullName: Vasily.SqlModel.IsMaunally
+  nameWithType: SqlModel.IsMaunally
+- uid: Vasily.SqlModel.PrimaryKey
+  name: PrimaryKey
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_PrimaryKey
+  commentId: F:Vasily.SqlModel.PrimaryKey
+  fullName: Vasily.SqlModel.PrimaryKey
+  nameWithType: SqlModel.PrimaryKey
+- uid: Vasily.SqlModel.RealToColumnMap
+  name: RealToColumnMap
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_RealToColumnMap
+  commentId: F:Vasily.SqlModel.RealToColumnMap
+  fullName: Vasily.SqlModel.RealToColumnMap
+  nameWithType: SqlModel.RealToColumnMap
+- uid: Vasily.SqlModel.Select
+  name: Select
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_Select
+  commentId: F:Vasily.SqlModel.Select
+  fullName: Vasily.SqlModel.Select
+  nameWithType: SqlModel.Select
+- uid: Vasily.SqlModel.SelectAll
+  name: SelectAll
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_SelectAll
+  commentId: F:Vasily.SqlModel.SelectAll
+  fullName: Vasily.SqlModel.SelectAll
+  nameWithType: SqlModel.SelectAll
+- uid: Vasily.SqlModel.Struction
+  name: Struction
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_Struction
+  commentId: F:Vasily.SqlModel.Struction
+  fullName: Vasily.SqlModel.Struction
+  nameWithType: SqlModel.Struction
+- uid: Vasily.SqlModel.Table
+  name: Table
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_Table
+  commentId: F:Vasily.SqlModel.Table
+  fullName: Vasily.SqlModel.Table
+  nameWithType: SqlModel.Table
+- uid: Vasily.SqlModel.Update
+  name: Update
+  href: api/Vasily.SqlModel.html#Vasily_SqlModel_Update
+  commentId: F:Vasily.SqlModel.Update
+  fullName: Vasily.SqlModel.Update
+  nameWithType: SqlModel.Update
+- uid: Vasily.TableAttribute
+  name: TableAttribute
+  href: api/Vasily.TableAttribute.html
+  commentId: T:Vasily.TableAttribute
+  fullName: Vasily.TableAttribute
+  nameWithType: TableAttribute
+- uid: Vasily.TableAttribute.#ctor(System.String)
+  name: TableAttribute(String)
+  href: api/Vasily.TableAttribute.html#Vasily_TableAttribute__ctor_System_String_
+  commentId: M:Vasily.TableAttribute.#ctor(System.String)
+  fullName: Vasily.TableAttribute.TableAttribute(System.String)
+  nameWithType: TableAttribute.TableAttribute(String)
+- uid: Vasily.TableAttribute.#ctor*
+  name: TableAttribute
+  href: api/Vasily.TableAttribute.html#Vasily_TableAttribute__ctor_
+  commentId: Overload:Vasily.TableAttribute.#ctor
+  fullName: Vasily.TableAttribute.TableAttribute
+  nameWithType: TableAttribute.TableAttribute
+- uid: Vasily.TableAttribute.Name
+  name: Name
+  href: api/Vasily.TableAttribute.html#Vasily_TableAttribute_Name
+  commentId: F:Vasily.TableAttribute.Name
+  fullName: Vasily.TableAttribute.Name
+  nameWithType: TableAttribute.Name
+- uid: Vasily.UpdateAttribute
+  name: UpdateAttribute
+  href: api/Vasily.UpdateAttribute.html
+  commentId: T:Vasily.UpdateAttribute
+  fullName: Vasily.UpdateAttribute
+  nameWithType: UpdateAttribute
+- uid: Vasily.UpdateAttribute.#ctor(System.String[])
+  name: UpdateAttribute(String[])
+  href: api/Vasily.UpdateAttribute.html#Vasily_UpdateAttribute__ctor_System_String___
+  commentId: M:Vasily.UpdateAttribute.#ctor(System.String[])
+  name.vb: UpdateAttribute(String())
+  fullName: Vasily.UpdateAttribute.UpdateAttribute(System.String[])
+  fullName.vb: Vasily.UpdateAttribute.UpdateAttribute(System.String())
+  nameWithType: UpdateAttribute.UpdateAttribute(String[])
+  nameWithType.vb: UpdateAttribute.UpdateAttribute(String())
+- uid: Vasily.UpdateAttribute.#ctor*
+  name: UpdateAttribute
+  href: api/Vasily.UpdateAttribute.html#Vasily_UpdateAttribute__ctor_
+  commentId: Overload:Vasily.UpdateAttribute.#ctor
+  fullName: Vasily.UpdateAttribute.UpdateAttribute
+  nameWithType: UpdateAttribute.UpdateAttribute
+- uid: Vasily.UpdateAttribute.Keys
+  name: Keys
+  href: api/Vasily.UpdateAttribute.html#Vasily_UpdateAttribute_Keys
+  commentId: P:Vasily.UpdateAttribute.Keys
+  fullName: Vasily.UpdateAttribute.Keys
+  nameWithType: UpdateAttribute.Keys
+- uid: Vasily.UpdateAttribute.Keys*
+  name: Keys
+  href: api/Vasily.UpdateAttribute.html#Vasily_UpdateAttribute_Keys_
+  commentId: Overload:Vasily.UpdateAttribute.Keys
+  fullName: Vasily.UpdateAttribute.Keys
+  nameWithType: UpdateAttribute.Keys
+- uid: Vasily.Utils
+  name: Vasily.Utils
+  href: api/Vasily.Utils.html
+  commentId: N:Vasily.Utils
+  fullName: Vasily.Utils
+  nameWithType: Vasily.Utils
+- uid: Vasily.Utils.ModelAnalyser
+  name: ModelAnalyser
+  href: api/Vasily.Utils.ModelAnalyser.html
+  commentId: T:Vasily.Utils.ModelAnalyser
+  fullName: Vasily.Utils.ModelAnalyser
+  nameWithType: ModelAnalyser
+- uid: Vasily.Utils.ModelAnalyser.Initialization(Type)
+  name: Initialization(Type)
+  href: api/Vasily.Utils.ModelAnalyser.html#Vasily_Utils_ModelAnalyser_Initialization_Type_
+  commentId: M:Vasily.Utils.ModelAnalyser.Initialization(Type)
+  fullName: Vasily.Utils.ModelAnalyser.Initialization(Type)
+  nameWithType: ModelAnalyser.Initialization(Type)
+- uid: Vasily.Utils.ModelAnalyser.Initialization*
+  name: Initialization
+  href: api/Vasily.Utils.ModelAnalyser.html#Vasily_Utils_ModelAnalyser_Initialization_
+  commentId: Overload:Vasily.Utils.ModelAnalyser.Initialization
+  fullName: Vasily.Utils.ModelAnalyser.Initialization
+  nameWithType: ModelAnalyser.Initialization
+- uid: Vasily.Utils.Setter
+  name: Setter
+  href: api/Vasily.Utils.Setter.html
+  commentId: T:Vasily.Utils.Setter
+  fullName: Vasily.Utils.Setter
+  nameWithType: Setter
+- uid: Vasily.Utils.SqlAnalyser
+  name: SqlAnalyser
+  href: api/Vasily.Utils.SqlAnalyser.html
+  commentId: T:Vasily.Utils.SqlAnalyser
+  fullName: Vasily.Utils.SqlAnalyser
+  nameWithType: SqlAnalyser
+- uid: Vasily.Utils.SqlAnalyser.CopyModel(Type,Vasily.SqlModel)
+  name: CopyModel(Type, SqlModel)
+  href: api/Vasily.Utils.SqlAnalyser.html#Vasily_Utils_SqlAnalyser_CopyModel_Type_Vasily_SqlModel_
+  commentId: M:Vasily.Utils.SqlAnalyser.CopyModel(Type,Vasily.SqlModel)
+  fullName: Vasily.Utils.SqlAnalyser.CopyModel(Type, Vasily.SqlModel)
+  nameWithType: SqlAnalyser.CopyModel(Type, SqlModel)
+- uid: Vasily.Utils.SqlAnalyser.CopyModel*
+  name: CopyModel
+  href: api/Vasily.Utils.SqlAnalyser.html#Vasily_Utils_SqlAnalyser_CopyModel_
+  commentId: Overload:Vasily.Utils.SqlAnalyser.CopyModel
+  fullName: Vasily.Utils.SqlAnalyser.CopyModel
+  nameWithType: SqlAnalyser.CopyModel
+- uid: Vasily.Utils.SqlAnalyser.Initialize(Vasily.SqlModel)
+  name: Initialize(SqlModel)
+  href: api/Vasily.Utils.SqlAnalyser.html#Vasily_Utils_SqlAnalyser_Initialize_Vasily_SqlModel_
+  commentId: M:Vasily.Utils.SqlAnalyser.Initialize(Vasily.SqlModel)
+  fullName: Vasily.Utils.SqlAnalyser.Initialize(Vasily.SqlModel)
+  nameWithType: SqlAnalyser.Initialize(SqlModel)
+- uid: Vasily.Utils.SqlAnalyser.Initialize*
+  name: Initialize
+  href: api/Vasily.Utils.SqlAnalyser.html#Vasily_Utils_SqlAnalyser_Initialize_
+  commentId: Overload:Vasily.Utils.SqlAnalyser.Initialize
+  fullName: Vasily.Utils.SqlAnalyser.Initialize
+  nameWithType: SqlAnalyser.Initialize
+- uid: Vasily.Utils.SqlMaker
+  name: SqlMaker
+  href: api/Vasily.Utils.SqlMaker.html
+  commentId: T:Vasily.Utils.SqlMaker
+  fullName: Vasily.Utils.SqlMaker
+  nameWithType: SqlMaker
+- uid: Vasily.Utils.SqlMaker.#ctor(Vasily.SqlModel)
+  name: SqlMaker(SqlModel)
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker__ctor_Vasily_SqlModel_
+  commentId: M:Vasily.Utils.SqlMaker.#ctor(Vasily.SqlModel)
+  fullName: Vasily.Utils.SqlMaker.SqlMaker(Vasily.SqlModel)
+  nameWithType: SqlMaker.SqlMaker(SqlModel)
+- uid: Vasily.Utils.SqlMaker.#ctor*
+  name: SqlMaker
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker__ctor_
+  commentId: Overload:Vasily.Utils.SqlMaker.#ctor
+  fullName: Vasily.Utils.SqlMaker.SqlMaker
+  nameWithType: SqlMaker.SqlMaker
+- uid: Vasily.Utils.SqlMaker.GetDelete
+  name: GetDelete()
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetDelete
+  commentId: M:Vasily.Utils.SqlMaker.GetDelete
+  fullName: Vasily.Utils.SqlMaker.GetDelete()
+  nameWithType: SqlMaker.GetDelete()
+- uid: Vasily.Utils.SqlMaker.GetDelete*
+  name: GetDelete
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetDelete_
+  commentId: Overload:Vasily.Utils.SqlMaker.GetDelete
+  fullName: Vasily.Utils.SqlMaker.GetDelete
+  nameWithType: SqlMaker.GetDelete
+- uid: Vasily.Utils.SqlMaker.GetInsert(System.String[])
+  name: GetInsert(String[])
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetInsert_System_String___
+  commentId: M:Vasily.Utils.SqlMaker.GetInsert(System.String[])
+  name.vb: GetInsert(String())
+  fullName: Vasily.Utils.SqlMaker.GetInsert(System.String[])
+  fullName.vb: Vasily.Utils.SqlMaker.GetInsert(System.String())
+  nameWithType: SqlMaker.GetInsert(String[])
+  nameWithType.vb: SqlMaker.GetInsert(String())
+- uid: Vasily.Utils.SqlMaker.GetInsert*
+  name: GetInsert
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetInsert_
+  commentId: Overload:Vasily.Utils.SqlMaker.GetInsert
+  fullName: Vasily.Utils.SqlMaker.GetInsert
+  nameWithType: SqlMaker.GetInsert
+- uid: Vasily.Utils.SqlMaker.GetOperator(OperatorChar,OperatorChar,System.String)
+  name: GetOperator(OperatorChar, OperatorChar, String)
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetOperator_OperatorChar_OperatorChar_System_String_
+  commentId: M:Vasily.Utils.SqlMaker.GetOperator(OperatorChar,OperatorChar,System.String)
+  fullName: Vasily.Utils.SqlMaker.GetOperator(OperatorChar, OperatorChar, System.String)
+  nameWithType: SqlMaker.GetOperator(OperatorChar, OperatorChar, String)
+- uid: Vasily.Utils.SqlMaker.GetOperator*
+  name: GetOperator
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetOperator_
+  commentId: Overload:Vasily.Utils.SqlMaker.GetOperator
+  fullName: Vasily.Utils.SqlMaker.GetOperator
+  nameWithType: SqlMaker.GetOperator
+- uid: Vasily.Utils.SqlMaker.GetRepeate(System.String[])
+  name: GetRepeate(String[])
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetRepeate_System_String___
+  commentId: M:Vasily.Utils.SqlMaker.GetRepeate(System.String[])
+  name.vb: GetRepeate(String())
+  fullName: Vasily.Utils.SqlMaker.GetRepeate(System.String[])
+  fullName.vb: Vasily.Utils.SqlMaker.GetRepeate(System.String())
+  nameWithType: SqlMaker.GetRepeate(String[])
+  nameWithType.vb: SqlMaker.GetRepeate(String())
+- uid: Vasily.Utils.SqlMaker.GetRepeate*
+  name: GetRepeate
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetRepeate_
+  commentId: Overload:Vasily.Utils.SqlMaker.GetRepeate
+  fullName: Vasily.Utils.SqlMaker.GetRepeate
+  nameWithType: SqlMaker.GetRepeate
+- uid: Vasily.Utils.SqlMaker.GetSelect(System.String[])
+  name: GetSelect(String[])
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetSelect_System_String___
+  commentId: M:Vasily.Utils.SqlMaker.GetSelect(System.String[])
+  name.vb: GetSelect(String())
+  fullName: Vasily.Utils.SqlMaker.GetSelect(System.String[])
+  fullName.vb: Vasily.Utils.SqlMaker.GetSelect(System.String())
+  nameWithType: SqlMaker.GetSelect(String[])
+  nameWithType.vb: SqlMaker.GetSelect(String())
+- uid: Vasily.Utils.SqlMaker.GetSelect*
+  name: GetSelect
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetSelect_
+  commentId: Overload:Vasily.Utils.SqlMaker.GetSelect
+  fullName: Vasily.Utils.SqlMaker.GetSelect
+  nameWithType: SqlMaker.GetSelect
+- uid: Vasily.Utils.SqlMaker.GetUpdate(System.String[])
+  name: GetUpdate(String[])
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetUpdate_System_String___
+  commentId: M:Vasily.Utils.SqlMaker.GetUpdate(System.String[])
+  name.vb: GetUpdate(String())
+  fullName: Vasily.Utils.SqlMaker.GetUpdate(System.String[])
+  fullName.vb: Vasily.Utils.SqlMaker.GetUpdate(System.String())
+  nameWithType: SqlMaker.GetUpdate(String[])
+  nameWithType.vb: SqlMaker.GetUpdate(String())
+- uid: Vasily.Utils.SqlMaker.GetUpdate*
+  name: GetUpdate
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_GetUpdate_
+  commentId: Overload:Vasily.Utils.SqlMaker.GetUpdate
+  fullName: Vasily.Utils.SqlMaker.GetUpdate
+  nameWithType: SqlMaker.GetUpdate
+- uid: Vasily.Utils.SqlMaker.Model
+  name: Model
+  href: api/Vasily.Utils.SqlMaker.html#Vasily_Utils_SqlMaker_Model
+  commentId: F:Vasily.Utils.SqlMaker.Model
+  fullName: Vasily.Utils.SqlMaker.Model
+  nameWithType: SqlMaker.Model
+- uid: Vasily.VasilyHandler
+  name: VasilyHandler
+  href: api/Vasily.VasilyHandler.html
+  commentId: T:Vasily.VasilyHandler
+  fullName: Vasily.VasilyHandler
+  nameWithType: VasilyHandler
+- uid: Vasily.VasilyHandler.Initialize(System.String)
+  name: Initialize(String)
+  href: api/Vasily.VasilyHandler.html#Vasily_VasilyHandler_Initialize_System_String_
+  commentId: M:Vasily.VasilyHandler.Initialize(System.String)
+  fullName: Vasily.VasilyHandler.Initialize(System.String)
+  nameWithType: VasilyHandler.Initialize(String)
+- uid: Vasily.VasilyHandler.Initialize*
+  name: Initialize
+  href: api/Vasily.VasilyHandler.html#Vasily_VasilyHandler_Initialize_
+  commentId: Overload:Vasily.VasilyHandler.Initialize
+  fullName: Vasily.VasilyHandler.Initialize
+  nameWithType: VasilyHandler.Initialize

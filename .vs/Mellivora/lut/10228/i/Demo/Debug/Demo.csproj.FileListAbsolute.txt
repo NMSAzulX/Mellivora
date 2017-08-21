@@ -1,0 +1,7 @@
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\Demo\bin\Debug\Demo.exe.config
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\Demo\bin\Debug\Demo.exe
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\Demo\bin\Debug\Demo.pdb
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\Demo\Debug\Demo.csprojResolveAssemblyReference.cache
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\Demo\Debug\Demo.csproj.CoreCompileInputs.cache
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\Demo\Debug\Demo.exe
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\Demo\Debug\Demo.pdb

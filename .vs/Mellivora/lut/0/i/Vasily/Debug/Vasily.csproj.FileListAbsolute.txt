@@ -1,0 +1,5 @@
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\src\Vasily\bin\Debug\Vasily.dll
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\src\Vasily\bin\Debug\Vasily.pdb
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\Vasily\Debug\Vasily.csproj.CoreCompileInputs.cache
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\Vasily\Debug\Vasily.dll
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\Vasily\Debug\Vasily.pdb

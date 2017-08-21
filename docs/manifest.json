@@ -1,0 +1,757 @@
+{
+  "homepages": [],
+  "source_base_path": "J:/VsGit/Mellivora",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "qRhjnHXqAaMmDdP9rJOGTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DbConnectionALExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DbConnectionALExtension.html",
+          "hash": "tMxU/42kLGF7VSlTAg+OJQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DbConnectionByInstanceExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DbConnectionByInstanceExtension.html",
+          "hash": "8VdggSzMQ/79NxdaUFNy2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DbConnectionByObjectExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DbConnectionByObjectExtension.html",
+          "hash": "LUM3InqNAHkppAaY3X5axg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DbConnectionCurdExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DbConnectionCurdExtension.html",
+          "hash": "GUPjva4D7fEhiaThrwyU5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DbConnectionOriginalExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DbConnectionOriginalExtension.html",
+          "hash": "VCIxe1/g3oF1dh+qc3/CAQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.GetCommandByInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.GetCommandByInstance.html",
+          "hash": "x7No+0XxG5Wz9+CNMuE/oQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.GetCommandByObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.GetCommandByObject.html",
+          "hash": "NPxSm4khuY/8xLr6cavi0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.GetGenericCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.GetGenericCommand.html",
+          "hash": "lHhSQlB5ujYgMzxeJFCUeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.GetReaderInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.GetReaderInstance.html",
+          "hash": "Bl3A9fpKp8Yg2UzhQ9EoCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DynamicCache.SqlDelegate-1.html",
+          "hash": "pxQX8nYfponag5mgula0NQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DynamicCache.SqlDynamicCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DynamicCache.SqlDynamicCache.html",
+          "hash": "+/iM0cQtjeFCZhOGZLngug=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.DynamicCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.DynamicCache.html",
+          "hash": "NklQ7TKLvmGL7Qsh6AVKDA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Mellivora.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Mellivora.html",
+          "hash": "kf1phbZ/tDOKMl/MJkbmeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.AllocateStringDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.AllocateStringDelegate.html",
+          "hash": "Ff9uQIq6kL0/F/gHcGQsxg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.AndEquAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.AndEquAttribute.html",
+          "hash": "0vY//z/I6eGCm+8mBVc9Fg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.AndGeqAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.AndGeqAttribute.html",
+          "hash": "NUXX4730Xb9hQuPTh5/XlA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.AndGtrAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.AndGtrAttribute.html",
+          "hash": "NAgOFzzlR0oY3k8eYuv7fg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.AndLeqAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.AndLeqAttribute.html",
+          "hash": "YSHuibTqKLRLZwUiZYEI9w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.AndLssAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.AndLssAttribute.html",
+          "hash": "S7A18/u8NtqJhHoMPiHmiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.AndNeqAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.AndNeqAttribute.html",
+          "hash": "NymByVMC3LgUvDjBBziQmg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Cache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Cache.html",
+          "hash": "ieb5Q+QM6IwzcZmprj9cxg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.ColumnAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.ColumnAttribute.html",
+          "hash": "BPH29ea0lapB1dCgB9SGfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.IAttributesLogicalData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.IAttributesLogicalData.html",
+          "hash": "j65rkq7Jrjv6iWJZJg8rLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.IAttributesLogicalOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.IAttributesLogicalOperator.html",
+          "hash": "2me2toU5QscokgEzLvrGEg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.IVasily.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.IVasily.html",
+          "hash": "xyF/bTJ+ZyoaeFQ/d+opqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.IgnoreAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.IgnoreAttribute.html",
+          "hash": "UjT5NXmtrWWDFAKkqE0nPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Main.VasilyLink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Main.VasilyLink.html",
+          "hash": "u0cqsyS2E3qFxCUU75DGHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Main.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Main.html",
+          "hash": "IlIU806bJF2hEp+Bc9ULXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Model.ALStruct.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Model.ALStruct.html",
+          "hash": "LyL6F4JYluKi+aG6y8KTOQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Model.OperatorChar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Model.OperatorChar.html",
+          "hash": "yoAC1qyriIgE5FfS8I4TQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Model.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Model.html",
+          "hash": "iwIAdyE7A/ZX2+InHtqETQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.ModelStruction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.ModelStruction.html",
+          "hash": "HPbQtk/tFNjCLiRXp6LIJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.NMSString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.NMSString.html",
+          "hash": "IohfbxcDeg8EeprEgpbD1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.NoRepeateAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.NoRepeateAttribute.html",
+          "hash": "zVe599NBs9EUBMQXkW1IOg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.OrEquAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.OrEquAttribute.html",
+          "hash": "dxGdoOAujjwUU/nvieye8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.OrGeqAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.OrGeqAttribute.html",
+          "hash": "569QhrNefCX502ss69uHxA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.OrGtrAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.OrGtrAttribute.html",
+          "hash": "zXaZ4KRantZi4+hCZhPvQQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.OrLeqAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.OrLeqAttribute.html",
+          "hash": "GvfqdYpd/1k/o2zhSN5Xhw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.OrLssAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.OrLssAttribute.html",
+          "hash": "buxMg/toOkFMQP8dAbdG2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.OrNeqAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.OrNeqAttribute.html",
+          "hash": "dE8iLcKh2IrsC1/hWRa6xg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.OuterMapAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.OuterMapAttribute.html",
+          "hash": "TnSqIePTG7FoOTQV8pvtHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.PrimaryKeyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.PrimaryKeyAttribute.html",
+          "hash": "xqGEx09Zr99pfWpZcb8FVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.RepeateAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.RepeateAttribute.html",
+          "hash": "leXIo8G9ZrtCxewUD8Vfqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.SelectAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.SelectAttribute.html",
+          "hash": "OfMcK2+aqtVSkLPHjkXCqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Sql-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Sql-1.html",
+          "hash": "jM/JxPym25Z3nDgkpnhlVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.SqlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.SqlModel.html",
+          "hash": "gcYtIg0r+XEucGLl4fR1IA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.TableAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.TableAttribute.html",
+          "hash": "+8jihulFMH3+jAMIUezMgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.UpdateAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.UpdateAttribute.html",
+          "hash": "F0dFk7VgbXiGlmoNEyzDyA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Utils.ModelAnalyser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Utils.ModelAnalyser.html",
+          "hash": "LgNuuZ8VQRcEs0t2vy8pKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Utils.Setter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Utils.Setter.html",
+          "hash": "Na42QuvIgaBB98AgPhhKGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Utils.SqlAnalyser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Utils.SqlAnalyser.html",
+          "hash": "81l1dOeAov0gPw9G+51L9Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Utils.SqlMaker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Utils.SqlMaker.html",
+          "hash": "NROk+6aQrMLMqItyz7pQkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.Utils.html",
+          "hash": "6jLoXMlnSobEFoEfZX7gag=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.VasilyHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.VasilyHandler.html",
+          "hash": "14j9qI8sLOR7p2brfkC1jQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vasily.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vasily.html",
+          "hash": "oQErnf8mXnmqbNOs38z8uQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "F2BP0aX138xiBfhvJop95Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "Bvfppode3CFcCCqfM597vg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "B9dZE5O6UIQpQAm22AnXCQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "RestApiDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor RestApiDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {}
+}

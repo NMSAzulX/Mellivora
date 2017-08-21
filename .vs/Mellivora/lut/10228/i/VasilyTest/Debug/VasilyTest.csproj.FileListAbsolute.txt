@@ -1,0 +1,11 @@
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\VasilyTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\VasilyTest\bin\Debug\xunit.runner.utility.net35.dll
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\VasilyTest\bin\Debug\xunit.runner.reporters.net452.dll
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\VasilyTest\bin\Debug\xunit.abstractions.dll
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\VasilyTest\bin\Debug\VasilyTest.exe.config
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\VasilyTest\bin\Debug\VasilyTest.exe
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\b\test\VasilyTest\bin\Debug\VasilyTest.pdb
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\VasilyTest\Debug\VasilyTest.csprojResolveAssemblyReference.cache
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\VasilyTest\Debug\VasilyTest.csproj.CoreCompileInputs.cache
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\VasilyTest\Debug\VasilyTest.exe
+J:\VsGit\Mellivora\.vs\Mellivora\lut\0\i\VasilyTest\Debug\VasilyTest.pdb
