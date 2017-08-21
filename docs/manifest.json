@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "qRhjnHXqAaMmDdP9rJOGTg=="
+          "hash": "KsUoUGuIGnykhROK9i8xcA=="
         }
       },
       "is_incremental": true,
@@ -693,10 +693,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "Bvfppode3CFcCCqfM597vg=="
+          "hash": "uy++M+HlUaHbDHBASxOy6Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -705,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "B9dZE5O6UIQpQAm22AnXCQ=="
+          "hash": "x3kb/A/ClAxt3qf7atlJsA=="
         }
       },
       "is_incremental": true,
