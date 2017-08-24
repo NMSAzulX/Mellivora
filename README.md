@@ -21,7 +21,7 @@
 ![执行100000次对比](https://nmslanx.github.io/Mellivora/images/100000M.png)
 
 以上库可以拿来修改，研究，发布。  
-经过编写Mellivora发现，Dapper在稳定性以及性能的平衡上做的非常好，细致入微。
+经过编写Mellivora发现，Dapper在稳定性以及性能的平衡上做的非常好，细致入微。  
 开源地址：[Mellivora Github](https://github.com/NMSLanX/Mellivora)
 文档参考：[Mellivora API](https://nmslanx.github.io/Mellivora/api/index.html)
 
