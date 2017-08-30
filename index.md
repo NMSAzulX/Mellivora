@@ -2,9 +2,9 @@
 
 ### 事先声明：该类库仅供学习和参考。
 ## 历程：  
-&emsp;&emsp;这个库的由来其实很不光彩，由于刚学.NET的时候老师分组做项目，我们组的项目因为后端数据没有对接上前端的控件（WPF）而落败，就像卡了壳的枪....接下来的学习里，接触了Dapper、EF等ORM，当时对于市场以及技术还处于主观任性的阶段，因此把EF、WCF、WebService、WebForm等技术拉黑，而去迎接一些轻量级的框架，例如[Dapper](https://github.com/StackExchange/Dapper). 由于本人悟性太差，无法驾驭这个高深的ORM心法, Dapper的源码如同蝌蚪文一样晦涩难懂，其源码在电脑里就像一股强劲的内力没办法化解，憋的实在难受，直到遇见了[PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)，源码思路清晰易懂，对化解Dapper内力有着强劲的辅助作用，直到看完之后感觉有些穴道被打通了，整个人也精神了很多,反观Dapper依旧破烂不堪。  
+&emsp;&emsp;由于在学习中接触到了Dapper等优秀的ORM，因此激发了兴趣，想自己也尝试写一下类似的ORM。
 ## 技术实现
->&emsp;&emsp;在起初写Mellivora的时候，动态缓存也是由纯Emit来实现的，代码量大，不容易调试。一个缓存方法写下来有小1000行。因此2017年，发布了[Natasha2016](https://github.com/dotnetcore/Natasha)版，这一版初次对IL编程进行了简化优化操作，使用Natasha对之前的Mellivora进行了缓存方法重构，代码量减少了二分之一左右，另外保证了性能。  
+>&emsp;&emsp;本库同样是对IDbConnection进行了扩展，在起初写Mellivora的时候，动态缓存也是由纯Emit来实现的，代码量大，不容易调试。一个缓存方法写下来有小1000行。因此2017年，发布了[Natasha2016](https://github.com/dotnetcore/Natasha)版，这一版初次对IL编程进行了简化优化操作，使用Natasha对之前的Mellivora进行了缓存方法重构，代码量减少了二分之一左右，另外保证了性能。  
 ### 以下是两者ORM动态缓存方法的性能对比（未迁移至Core）
 ![Natasha缓存性能](https://nmslanx.github.io/Mellivora/images/Cache.png)
 >在细节优化的时候，Mellivora参照了大量的Dapper代码，而在缓存的设计上，Mellivora更为直观。
